@@ -35,7 +35,7 @@ The purpose of _The Polytechnic_ shall be to keep the members of the Rensselaer 
 
     5. The rules listed above in parts (2), (3), and (4) may be waived on a per-editor basis by a two-thirds vote of a Voting Constituency quorum.
 
-4. The total number of staff members on _The Polytechnic_ who are not members of the Rensselaer Union or RPI faculty, staff, or alumni shall not exceed 5% of the total number of staff.
+4. The total number of staff members on _The Polytechnic_ who are not members of the Rensselaer Union or RPI faculty, staff, or alumni shall not exceed 5 percent of the total number of staff.
 
 5. All staff must adhere to all Rensselaer Union guidelines and are subject to all Rensselaer Union and Institute standards and disciplinary procedures.
 
@@ -50,9 +50,13 @@ The purpose of _The Polytechnic_ shall be to keep the members of the Rensselaer 
 ## Section IV: Committees
 
 1. The editorial board shall be the governing body of _The Polytechnic_. Any decision made individually or otherwise by any officer(s) or other editor(s) during the discharge of their duties may be repealed or directed by a majority vote of an editorial board quorum. Its voting members shall be the senior editors, department editors, associate editors, and directors. Additionally, the Grand Marshal, the President of the Union, and all coordinators are granted the right to attend all business meetings and editorial content meetings. They shall not vote at said meetings nor count towards or against quorum.
+
 2. The Senior Board shall consist of the senior editors of the editorial board.
+
 3. The editor in chief has the power to create new committees whenever he or she deems necessary. He or she shall appoint a chair and designate the other members of the committee. Committee chairs must be chosen from the membership of the editorial board. The jurisdiction of the committee and its chair shall be determined by the editor in chief.
+
 4. Committee chairs are required to give reports during each business meeting as to the status of their committee’s activities. 
+
 5. All committee meetings are open to any member, and the places and times of said meetings shall be posted in the offices of _The Polytechnic._
 
 ## Section V: Meetings
@@ -191,6 +195,7 @@ The rules contained in the current edition of _Robert’s Rules of Order Newly R
 1. A copy of this constitution shall be available for inspection in _The Polytechnic_ offices.
 
 1. A code of ethics, available for inspection in _The Polytechnic_ offices, shall be adopted by the editorial board each semester with a two-thirds vote of the voting constituency, for the purpose of guiding the content and demeanor of _The Polytechnic_. 
+
 ## Section XI: Student Bill of Rights and Media Statement
 
 1. _The Polytechnic_, recognized as a media organization by the Rensselaer Union, claims the rights granted to student publications in the Student Bill of Rights as adopted by the Board of Trustees, as well as the rights granted to media organizations by the Rensselaer Union Media Statement.
