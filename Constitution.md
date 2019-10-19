@@ -5,7 +5,7 @@ Approved by the Editorial Board on 12/4/2016; ratified by the Rensselaer Union E
 
 ## Section I: Name
 
-The name of this organization shall be _The Rensselaer Polytechnic_, hereafter referred to as _The Polytechnic_. Colloquially, the organization and the newspaper it publishes is known as _The Poly_.
+The name of this organization shall be _The Rensselaer Polytechnic_, hereafter referred to as _The Polytechnic_. Colloquially, the news organization is known as _The Poly_.
 
 ## Section II: Purpose
 
@@ -104,13 +104,13 @@ The purpose of _The Polytechnic_ shall be to keep the members of the Rensselaer 
  
 1. Editorial Board Elections 
 
-    1. Semesterly elections for the editorial board shall be held within the time period between the final two issues of each semester. The fall semester election shall be known as the Fall election. The spring semester election shall be known as the Spring election.
+    1. Semesterly elections for the editorial board shall be held the Sunday before the last day of classes. The fall semester election shall be known as the Fall election. The spring semester election shall be known as the Spring election.
 
-    1. Notification of the elections will be made by an advertisement appearing in the two issues of _The Polytechnic_ immediately prior to the election.
+    1. Notification of the elections will be made by an announcement appearing on the website of _The Polytechnic_ two weeks immediately prior to the election.
 
     1. Election Procedures
 
-        1. Only current members of the voting constituency on the day of elections are eligible to vote. The voting constituency shall consist of staff who are members of the Rensselaer Union, have contributed to six issues of _The Polytechnic_, have attended at least two consecutive business meetings, and have informed the editor in chief of their intention to join the voting staff. Membership in the voting constituency is maintained as long as an individual is a member of the Rensselaer Union, does not wish to resign, is not removed, and–should the member not hold a named position on _The Polytechnic_’s staff–informs the editor in chief of their desire to vote no less than one week before an election.
+        1. Only current members of the voting constituency on the day of elections are eligible to vote. The voting constituency shall consist of staff who are members of the Rensselaer Union, have contributed to _The Polytechnic_ for six weeks, have attended at least two consecutive business meetings, and have informed the editor in chief of their intention to join the voting staff. Membership in the voting constituency is maintained as long as an individual is a member of the Rensselaer Union, does not wish to resign, is not removed, and–should the member not hold a named position on _The Polytechnic_’s staff–informs the editor in chief of their desire to vote no less than one week before an election.
 
         1. Members of the voting constituency may nominate anyone, including themselves, for any elected position. Nominations for each position will be accepted until the time when the election for that position is begun. 
 
@@ -161,7 +161,7 @@ The purpose of _The Polytechnic_ shall be to keep the members of the Rensselaer 
 
     1. In the event of a vacancy of any department editor, the associate editor of that department who has continually been a member of the voting constituency the longest will assume the duties of that department editor. If there is also no associate editor in that department, then a director, appointed by the editor in chief and confirmed by a majority vote of the editorial board, may assume the duties of that department editor (see section (III), subsection (A), part (5)). If a suitable person to serve as director cannot be found, than the editor in chief shall select a managing editor to fulfill the duties of the vacant department editor position.
 
-    1. Elections to fill any vacant positions may be held during any business meeting during the semester. These special elections must be announced by an advertisement appearing in the two issues of _The Polytechnic_ immediately prior to the election. These elections will be run in the same manner as defined in section (V), subsection (D), except that only vacant positions will be voted on.
+    1. Elections to fill any vacant positions may be held during any business meeting during the semester. These special elections must be announced by an announcement appearing on the _The Polytechnic_'s website one week immediately prior to the election. These elections will be run in the same manner as defined in section (V), subsection (D), except that only vacant positions will be voted on.
 
 1. Removal from Office
 
@@ -188,7 +188,7 @@ The rules contained in the current edition of _Robert’s Rules of Order Newly R
 
 ## Section X: Policies, Rules, and Bylaws
 
-1. _The Polytechnic_ shall be published weekly, except during Institute holiday and examination periods, at the discretion of the voting members. Special issues may also be published at any time at the discretion of the editorial board or editor in chief.
+1. _The Polytechnic_ shall be published online each week, except during Institute holiday and examination periods, at the discretion of the voting members. Special issues may also be published at any time at the discretion of the editorial board or editor in chief.
 
 1. Bylaws shall be drafted as deemed necessary by the voting constituency. By-laws go into effect after they are passed by a two-thirds vote of a voting constituency quorum, so long as they are not in conflict with this constitution.
 
