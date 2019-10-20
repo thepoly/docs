@@ -19,7 +19,7 @@ See **athletic facilities**.
 
 # A
 **a cappella**
-This word is well-established in the English language and does not need to be italicized. See [foreign language](#foreign language) for more information.
+This word is well-established in the English language and does not need to be italicized. See [foreign language](#foreign-language) for more information.
 
 **abbreviations and acronyms**
 A few universally recognized abbreviations are required (and preferred) in some circumstances, such as TA or RA. Some others are acceptable depending on the context. But in general, do not use abbreviations or acronyms that the reader would not quickly recognize.
@@ -418,7 +418,7 @@ Use *Flex* on all references to refer to the allowance on a meal plan.
 **Folsom Library**
 Use *Folsom Library* on first reference, *library* may be used on subsequent references if it’s clear there are no other libraries being referred to, like the *Architecture Library*.
 
-### foreign language
+#### foreign language
 Do not italicize familiar foreign words like
 
 Unfamiliar foreign words are italicized only the first time they appear in an article.
