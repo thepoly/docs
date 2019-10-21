@@ -1171,10 +1171,10 @@ Believe it or not, *ZIP Code* is a trademark owned by the USPS, use *zip code* i
 # Appendix C: Colleges
 The following is a list of colleges RPI regularly interacts with:
 
-**University’s name** (first reference)
-Location
-University’s name (subsequent reference)
-Team’s name
+**University’s name** (first reference)  
+Location  
+University’s name (subsequent reference)  
+Team’s name  
 
 - **Quinnipiac University**
 Hamden, C.T.
