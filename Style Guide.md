@@ -3,7 +3,7 @@ Updated 10/20/2019 at 9:49 pm. That's "mm/dd/yyyy," by the way.
 
 # Contents
 
-[How to use this guide](#how-to-use-this-guide)
+[How to use this guide](#how-to-use-this-guide)  
 [#](#\#)
 [A](#a)
 [B](#b)
@@ -30,12 +30,12 @@ Updated 10/20/2019 at 9:49 pm. That's "mm/dd/yyyy," by the way.
 [W](#w)
 [X](#x)
 [Y](#y)
-[Z](#z)
-[Appendix A: Athletic Facilities](#appendix-a-athletic-facilities)
-[Appendix B: Rensselaer Buildings](#appendix-b-rpi-buildings)
-[Appendix C: Colleges](#appendix-c-colleges)
-[Appendix F: Rensselaer Fraternities](#appendix-f-rpi-fraternities)
-[Appendix S: Rensselaer Sororities](#appendix-s-rpi-sororities)
+[Z](#z)  
+[Appendix A: Athletic Facilities](#appendix-a-athletic-facilities)  
+[Appendix B: Rensselaer Buildings](#appendix-b-rpi-buildings)  
+[Appendix C: Colleges](#appendix-c-colleges)  
+[Appendix F: Rensselaer Fraternities](#appendix-f-rpi-fraternities)  
+[Appendix S: Rensselaer Sororities](#appendix-s-rpi-sororities)  
 
 # How to use this guide
 This guide is built to be as easily accessed as possible. Words in *italics* are used to show example usage, and e.g. means "for example."
