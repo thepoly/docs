@@ -28,10 +28,10 @@ Acronyms should be capitalized with no periods in front of the letters. There sh
 	
 Do not follow an organization’s full name with an abbreviation or acronym in parentheses or set off by dashes. If an abbreviation or acronym would not be clear on second reference without this arrangement, do not use the abbreviation or acronym.
 	
-For time references, use am and pm without periods. For more help, see **time and date references**.
+For time references, use am and pm without periods. For more help, see [time and date references](#time-and-date-references).
 
 #### academic and administrative offices and departments
-See **capitalization**.
+See [capitalization](#capitalization).
 
 #### academic degrees
 If mention of degrees is necessary to establish someone’s credentials, the preferred form is to avoid an abbreviation and use instead a phrase, e.g., *Harry Styles, who has a doctorate in chemical engineering...*
@@ -45,7 +45,7 @@ Do not precede a name with a courtesy title for an academic degree and follow it
 #### accelerated programs
 
 #### accents
-See *diacritics*.
+See [diacritics](#diacritics).
 
 #### addresses
 For famous addresses like *1600 Pennsylvania Ave.*, use the abbreviations Ave., Blvd., and St. In all other cases, fully spell out the street name.
@@ -56,7 +56,7 @@ If there is no number, then do not abbreviate, e.g., *West 57th Street*.
 
 Spell out and capitalize *First* through *Ninth* when used as street names; use figures with two letters for *10th* and above.
 
-Lowercase and spell out street names when used with more than one street name, e.g., *15th and Hoosick streets*. See **plural** for more information.
+Lowercase and spell out street names when used with more than one street name, e.g., *15th and Hoosick streets*. See [plural](#plural) for more information.
 
 Always use figures for an address number,e.g., *2 Union Square*, *1999 Burdett Avenue*.
 
@@ -72,21 +72,21 @@ The full name of this building is the *Nancy Deloye Fitzroy ’49 and Roland V. 
 #### advisor
 Although “advisor” and “adviser” are both correct, use “advisor” for consistency, unless it’s a direct quote from written material.
 
-#### alma mater**
+#### alma mater
 
 #### alphabet soup
-A term used in linguistics as a metaphor for an abundance of abbreviations or acronyms, this phenomenon can be seen across campus. See **CLASS**.
+A term used in linguistics as a metaphor for an abundance of abbreviations or acronyms, this phenomenon can be seen across campus. See [CLASS](#class-initiative).
 
 #### alumni
 
 #### Alumni House
-See **Heffner Alumni House**.
+See [Heffner Alumni House](#heffner-alumni-house).
 
 #### am, pm
-See time and date references.
+See [time and date references](#time-and-date-references).
 
 #### apostrophe
-See **possessives**.
+See [possessives](#possessives).
 
 #### The Approach
 The full name of this structure is the *Louis Rubin Memorial Approach*, use *the Approach* on all references. Completed in 1907, this 163-step staircase fell into disrepair until it was restored and rededicated in 1999.
@@ -94,21 +94,21 @@ The full name of this structure is the *Louis Rubin Memorial Approach*, use *the
 #### The Arch
 Use *the Arch* on all references, never *Summer Arch*. 
 
-See also: **semesters**.
+See also: [semesters](#semesters).
 
 #### Archer Center
 
 #### area codes
-See **phone numbers**.
+See [phone numbers](#phone-numbers).
 
 #### athletic facilities
-See **Appendix A**.
+See [Appendix A](#appendix-a-athletic-facilities).
 
 #### author
-For articles published by RPI students not on The Polytechnic staff, credit them with their class year after their full name, e.g., Bill Ni ’22.
+For articles published by RPI students not on *The Polytechnic* staff, credit them with their class year after their full name, e.g., Bill Ni ’22.
 
 #### Auxiliary Services
-“The Office of Auxiliary Services is responsible for the Campus Card, Catering, Conference Services, Dining Services, Laundry, Parking & Transportation, and Vending Machines.” See **Campus Card**, **meal plan**, and **shuttles**.
+“The Office of Auxiliary Services is responsible for the Campus Card, Catering, Conference Services, Dining Services, Laundry, Parking & Transportation, and Vending Machines.” See [Campus Card](#campus-card), [meal plan](#meal-plan), and [shuttles](#shuttles).
 
 # B
 #### baccalaureate
@@ -136,7 +136,7 @@ Never abbreviate (bldg.) unless in a direct quote. Capitalize the proper names o
 bus, buses, bused, and busing. 
 	
 #### Bus Button
-See **shuttle tracker**.
+See [shuttle tracker](#shuttle-tracker).
 	
 # C
 #### Campus Card
@@ -144,10 +144,10 @@ See **shuttle tracker**.
 #### Campus Unisex Hair Salon
 
 #### Capital District
-Use *Capital District* on all references. This refers to the area around Albany and is more urban-focused than **Capital Region**. Use your best judgment when deciding between Region and District.
+Use *Capital District* on all references. This refers to the area around Albany and is more urban-focused than [Capital Region](#capital-region). Use your best judgment when deciding between Region and District.
 
 #### Capital District Transportation Authority
-Use *Capital District Transportation Authority* on first reference when talking about the organization, *CDTA* subsequently. Otherwise, use CDTA as an adjective, e.g., CDTA bus. See also: **bus**.
+Use *Capital District Transportation Authority* on first reference when talking about the organization, *CDTA* subsequently. Otherwise, use CDTA as an adjective, e.g., CDTA bus. See also: [bus](#bus).
 
 #### Capital Region
 Use *Capital Region* on all references. This refers to the more general area around the capital, which is all of Albany, Rensselaer, Schenectady, and Saratoga counties. The phrase *Greater Capital Region* is also unofficially used to refer to Columbia, Greene, Washington, Warren, Fulton, Montgomery, and Schoharie counties.
@@ -155,13 +155,13 @@ Use *Capital Region* on all references. This refers to the more general area aro
 #### capitalization
 
 #### CAPP report
-Recently replaced by **Degree Works**.
+Recently replaced by [Degree Works](#degree-works).
 
 #### captions
 When writing a caption, create a full sentence. Write in all caps up to and including the first verb of the sentence; write in lowercase after the verb. Include punctuation, e.g., *EVERYONE KNOWS about that one Quad bench.*
 
 #### career fair
-The *NSBE/SHPE Career Fair* and the *CCPD Spring Career Fair* are annual events on the RPI campus. Refer to both events as above on the first reference. Use *career fair* (note capitalization) on subsequent references if there is no doubt as to which career fair you are referring to. Do not spell out **NSBE**, **SHPE**, or **CCPD** when used in the titles of the fairs, but spell them out on the next independent reference of each. 
+The *NSBE/SHPE Career Fair* and the *CCPD Spring Career Fair* are annual events on the RPI campus. Refer to both events as above on the first reference. Use *career fair* (note capitalization) on subsequent references if there is no doubt as to which career fair you are referring to. Do not spell out [NSBE](#nsbe), [SHPE](#shpe), or [CCPD](#center-for-career-and-professional-development) when used in the titles of the fairs, but spell them out on the next independent reference of each. 
 
 #### casualties
 Refers to both deaths and injuries.
@@ -190,10 +190,10 @@ On first reference of a character in a TV or movie review, if you want to let th
 *In the episode “Magnetic Lofty,” Lofty (Sonya Leite) removes train tracks using a magnet.*
 
 #### chopsticks
-The only acceptable utensil with which to eat **Flamin’ Hot Cheetos**.
+The only acceptable utensil with which to eat [Flamin’ Hot Cheetos](#flamin-hot-cheetos).
 
 #### CIO
-Chief Information Officer. Use *CIO* on all references. See **DotCIO**.
+Chief Information Officer. Use *CIO* on all references. See [DotCIO](#dotcio).
 
 #### claim
 Avoid using this verb, especially in news stories. To claim implies doubt. Never say “so and so claimed…”
@@ -217,19 +217,21 @@ When referring to someone who graduated more than 90 years ago (before 1930 as o
 
 When referring to someone who graduated with multiple degrees from Rensselaer, choose the date of their earliest degree.
 
+#### Clubhouse Pub
+
 #### clubs
-See **Union organizations**.
+See [Union organizations](#union-organizations).
 
 #### College Media Association
 The College Media Association hosts the Spring National College Media Convention in New York City, which members of *The Poly* attend almost every year.
 
 #### colleges
-See **Appendix C**.
+See [Appendix C](#appendix-c-colleges).
 
 #### Collegiate Store
 
 #### colon
-Has a variety of uses, often used to introduce a quote. See **punctuation**.
+Has a variety of uses, often used to introduce a quote. See [punctuation](#punctuation).
 
 #### Colonie Apartments
 Located on Burdett Avenue, this complex has four buildings: *Colonie A*, *Colonie B*, *Colonie C*, and *Colonie D*. Use *Colonie Apartments* on first reference, *Colonie* subsequently, as long as it's clear you're not referencing the town of Colonie.
@@ -251,14 +253,14 @@ The best department of *The Polytechnic*, find the copy guide here [link]
 Official course names are always capitalized, e.g., *Introduction to Differential Equations* vs. *differential equations*.
 
 #### cutline
-See **captions**.
+See [captions](#captions).
 
 # D
 #### DCC
 Use *Darrin Communications Center* on first reference, *DCC* subsequently. *DCC* is acceptable on first reference if the full form would create an unwieldy sentence, as long as the long form is used on the very next reference.
 
 #### dashes
-see **en dash**, **em dash**, **figure dash**, and **hyphen**.
+see [en dash](#en-dash), [em dash](#em-dash), [figure dash](#figure-dash), and [hyphen](#hyphen).
 
 #### data
 
@@ -277,7 +279,7 @@ Can be referenced in a few ways. For news pieces and other formal writing, spell
 #### department names
 
 #### Degree Works
-Used to track graduation progress via **SIS**.
+Used to track graduation progress via [SIS](#sis).
 
 #### derby
 
@@ -296,13 +298,13 @@ Capitalize north, south, etc., when referencing a specific region or the directi
 #### discrimination
 Prefer *anti-gay* and *anti-trans* to adjectives like *homophobic* and *transphobic*. 
 
-See also: **racist**.
+See also: [racist](#racist).
 
 #### doctorate student
-See **class years**.
+See [class years](#class-years).
 
 #### documents
-Italicize the name of documents, like the ***Union Annual Report***.
+Italicize the name of documents, like the *[Union Annual Report](#union-annual-report)*.
 
 #### Dominoes Project
 
@@ -323,7 +325,7 @@ In the admissions process, Early Decision is used by an applicant to identify th
 Ground Zero often hosts events here. Although you can refer to the building by its full name, it’s more commonly known by its address, *2 Edgehill Terrace*. 
 
 #### ECAV
-See **athletic facilities**.
+See [athletic facilities](#athletic-facilities).
 
 #### ECAC
 Abbreviation for the *Eastern Collegiate Athletic Conference*, which should be used on first reference. *ECAC* should be used on subsequent references.
@@ -336,7 +338,7 @@ Abbreviation for the *Eastern Collegiate Athletic Conference*, which should be u
 Use *e-cigarette* on all references, contrary to AP style.
 
 #### ellipses
-See **quotations**.
+See [quotations](#quotations).
 
 #### email
 Reference email addresses as follows: poly@rpi.edu. No underline should be used, for any internet reference.
@@ -352,7 +354,7 @@ En dashes are used in place of “to” or “through” to indicate a range of 
 An en dash is also used in open hyphenated phrases like *Grammy Award–winning*.
 
 #### Environmental and Site Services
-Use *Environmental and Site Services* on first reference, *E&SS* subsequently. *E&SS* is responsible for building and landscape services, pest control, recycling, moving and transportation services, fleet operations, and mail services. This is the department in charge of **FIXX**.
+Use *Environmental and Site Services* on first reference, *E&SS* subsequently. *E&SS* is responsible for building and landscape services, pest control, recycling, moving and transportation services, fleet operations, and mail services. This is the department in charge of [FIXX](#fixx).
 
 #### ethnic groups
 Avoid references to these unless these are relevant to the focus of an article. When referring to a person’s or group’s ethnicity, never use constructions like *Asian American*, *African American*, *Chinese American*, or similar. The only exceptions to this is when authors of editorial pieces are referring to themselves alone, or when used in the name of a student group, e.g., *Chinese American Students Association*.
@@ -360,7 +362,7 @@ Avoid references to these unless these are relevant to the focus of an article. 
 Capitalize ethnic groups when they are associated with a specific place, e.g. *Greeks*, *Turks*, *Chinese*, or *Native American*. Do not capitalize ethnic groups like *whites* or *blacks*.
 
 #### Executive Board
-This is the governing body of the **Rensselaer Union**. Its members include representatives from every class, as well as club, intercollegiate athletics, Greek, and independent representatives. It is run by the **President of the Union**. 
+This is the governing body of the [Rensselaer Union](#rensselaer-union). Its members include representatives from every class, as well as club, intercollegiate athletics, Greek, and independent representatives. It is run by the [President of the Union](#president-of-the-union). 
 
 *E-Board* or *Union Executive Board* may be used on any reference. *Executive Board* and *the Board* may also be used on any reference when it is clear there are no other boards being referred to.
 
@@ -374,13 +376,13 @@ Rooms in EMPAC are the *EMPAC Concert Hall*, the *EMPAC Theater*, *Studio Beta*,
 #### EMPAC+
 
 #### EMPAC Hill
-	Use *EMPAC Hill* on all references to refer to the hill next to **EMPAC**.
+Use *EMPAC Hill* on all references to refer to the hill next to EMPAC.
 
 #### eSports
-	Also known as esports or e-sports, *eSports* is how we refer to organized, multiplayer video game competitions.
+Also known as esports or e-sports, *eSports* is how we refer to organized, multiplayer video game competitions.
 
 #### etc.
-	A latin expression meaning “and so forth,” use *etc.* (note punctuation) in all necessary instances. Do not use *&c.*, *&c*, or *etc* with no period.
+A latin expression meaning “and so forth,” use *etc.* (note punctuation) in all necessary instances. Do not use *&c.*, *&c*, or *etc* with no period.
 	
 # F
 #### Facebook
@@ -407,7 +409,7 @@ When using an ordinal (first, second, third, etc.) followed by “year,” alway
 #### FIXX
 This acronym doesn’t actually stand for anything; it is officially short for facilities work request. Use *FIXX* to refer to the organization a student, club officer, or faculty member requests to repair facilities on campus. 
 
-See also: **Environmental and Site Services**.
+See also: [Environmental and Site Services](#environmental-and-site-services).
 
 #### Flamin’ Hot Cheetos
 The official snack of *The Polytechnic*.
@@ -429,19 +431,19 @@ Translations of foreign words go in brackets and quotes when directly following 
 Spell out if under one, with hyphens in between words, e.g., *two-thirds*, *nine-twelves*, *twenty-seven-sixty-fourths*. Use figures for amounts larger than one, using a space between the whole number and fractional characters, e.g., *1 ½*, *6 ⅘*, *9 ⅞*. The exception to this is recipes, when numerical fractions should always be used, e.g., *⅓ cup*, *½ Tbsp*. For fractions without a fractional character, convert to decimals, e.g., *1.9*, *8.7*, *420.69*. 
 
 #### fraternity
-See **Appendix F**.
+See [Appendix F](#appendix-f-rpi-fraternities).
 
 #### freshman
 This is the proper term for a first-year undergraduate student at RPI. In describing a group of first-year students, use *freshmen*. Never use *freshperson*, *freshpeople*, *freshwoman*, *freshwomen*, or *frosh*.
 
 #### the Freshman Circle
-Includes **the Freshman Five** (except for Nason Hall), Commons Dining Hall, and Barton Hall.
+Includes the Freshman Five (except for Nason Hall), Commons Dining Hall, and Barton Hall.
 
 #### the Freshman Five
 Includes Crockett, Bray, Cary, Nason, and Hall Halls. Each of these dorms is nearly identical in layout.
 
 #### Freshman Hill
-Includes **the Freshman Five**, and Warren, Nugent, Davison, and Sharp Halls.
+Includes the Freshman Five, and Warren, Nugent, Davison, and Sharp Halls.
 
 # G
 #### gender
@@ -454,13 +456,13 @@ You are here.
 #### Google Docs
 
 #### graduate students
-See **class years**.
+See [class years](#class-years).
 
 #### Grand Marshal
-The Grand Marshal is the highest elected official, equivalent to a student body president. The first Grand Marshal, Albert Harper, was elected in 1866. Always capitalize *Grand Marshal*, and use *GM* on subsequent references. The Grand Marshal only votes in **Student Senate** matters to break a tie. As the representative and the leader of the students, the Grand Marshal is a useful source of information and story leads.
+The Grand Marshal is the highest elected official, equivalent to a student body president. The first Grand Marshal, Albert Harper, was elected in 1866. Always capitalize *Grand Marshal*, and use *GM* on subsequent references. The Grand Marshal only votes in [Student Senate](#student-senate) matters to break a tie. As the representative and the leader of the students, the Grand Marshal is a useful source of information and story leads.
 
 #### Grand Marshal Week
-Use *Grand Marshal Week* on first reference, *GM Week* on subsequent references. It’s designed to spark interest in student government elections. It usually starts on a Friday early in April and ends the following Friday night. Primary and final voting take place during the week. GM Week is organized by the GM Week Committee, a sub-committee of the **Rules and Elections Committee** of the **Student Senate**. However, most of the events are sponsored by various campus clubs and organizations.
+Use *Grand Marshal Week* on first reference, *GM Week* on subsequent references. It’s designed to spark interest in student government elections. It usually starts on a Friday early in April and ends the following Friday night. Primary and final voting take place during the week. GM Week is organized by the GM Week Committee, a sub-committee of the [Rules and Elections Committee](#rules-and-elections-committee) of the [Student Senate](#student-senate). However, most of the events are sponsored by various campus clubs and organizations.
 
 #### Ground Zero
 
@@ -486,7 +488,7 @@ When referring to a specific hashtag, use the pound sign (#) followed by the spe
 #### headlines
 
 #### Heffner Alumni House
-	Use *Heffner Alumni House* on first reference, *Alumni House* subsequently.
+Use *Heffner Alumni House* on first reference, *Alumni House* subsequently.
 
 #### height
 "six feet three" and 6'3" (no spaces) are both acceptable. Do not say "six foot three" (not sure about when to use foot vs. feet tbh)
@@ -496,7 +498,7 @@ When referring to a specific hashtag, use the pound sign (#) followed by the spe
 #### the horseshoe
 
 #### Houston Field House
-See **athletic facilities**.
+See [athletic facilities](#athletic-facilities).
 
 #### hyperlink
 
@@ -505,15 +507,15 @@ Hyphens are used in compound phrases that are treated as individual entities and
 
 Hyphens are also used if a prefix ends in a vowel and the word that follows begins with the same vowel, e.g., *re-enter* vs. *readmit*. There are a few exceptions to this rule such as *cooperate* and *coordinate*. 
 
-See also: **co-op**.
+See also: [co-op](#co-op).
 
 If using creating a list with multiple hyphenated phrases sharing a common second half, like *on- and off-campus*, keep the trailing hyphens.
 
 # I
-#### IT & Web Science**
+#### IT & Web Science
 Often abbreviated *ITWS*, which is acceptable only after referencing the entire name. ITWS is under the umbrella of the School of Science but maintains status as its own school. 
 
-See also: **schools**.
+See also: [schools](#school-of).
 
 #### initials
 Use initials when a person prefers that they be used or when they provide better identification of the person, e.g., *George M. Low* and *G. Gordon Liddy*.
@@ -533,7 +535,7 @@ Use italics for the name of any publication, movie, journal, software program, v
 
 Use italics to indicate emphasis; do not use boldface or uppercase for this purpose. If the surrounding text is already in italics, use normal type for what would otherwise be italicized text. 
 
-See also: **titles of works**.
+See also: [titles of works](#titles-of-works).
 
 # J
 #### Joint Board
@@ -546,7 +548,7 @@ This is the term for a third-year undergraduate student. Use the term *juniors* 
 #### Juul
 Juul is a noun and to juul is a verb (juul, juuled, juuling). #JuulGang. 
 
-See also: **hashtag**.
+See also: [hashtag](#hashtag).
 
 # K
 #### keyboard shortcut keys
@@ -589,7 +591,7 @@ Do not capitalize the names of majors, unless it is a title specific to an RPI p
 A nice way to format and write plain text documents, like this style guide.
 
 #### McNeil Room
-The McNeil Room is the official name for the large room in the center of the second floor of the **Rensselaer Union**. Use *McNeil Room* on all references.
+The McNeil Room is the official name for the large room in the center of the second floor of the [Rensselaer Union](#rensselaer-union). Use *McNeil Room* on all references.
 
 #### meal plan
 
@@ -642,7 +644,7 @@ Use *New York City* on first reference, *NYC* subsequently. *New York, New York*
 Note capitalization. Use *New York state* in all instances except when it’s included in the title of an organization or building, like the *New York State Center for Polymer Synthesis*, *the New York State Education Department*, or *the State of New York*.
 
 #### NSBE
-The *National Society of Black Engineers* is one half of the annual **NSBE/SHPE Career Fair**. Use *NSBE* on subsequent references.
+The *National Society of Black Engineers* is one half of the annual [NSBE/SHPE Career Fair](#career-fair). Use *NSBE* on subsequent references.
 
 #### numbers
 Always spell out numbers, no matter how large, at the beginning of a sentence. If you don’t want to write out the number, rearrange the sentence. 
@@ -654,11 +656,11 @@ Place a comma around every group of 1,000.
 >Wrong: 123.456.789
 >Right: 123,456,789
 
-Numbers are sometimes preferred in **fractions**. 
+Numbers are sometimes preferred in [fractions](#fractions). 
 
-Exceptions when numbers are always prefered are dates, times, ages, percentages, monetary amounts, or in **recipes**. 
+Exceptions when numbers are always prefered are dates, times, ages, percentages, monetary amounts, or in [recipes](#recipies). 
 
-See also: **percentages**, **time and date references**, and **money**.
+See also: [percentages](#percentages), [time and date references](#time-and-date-references), and [money](#money).
 
 # O
 #### opinion
@@ -712,14 +714,14 @@ Editorial Board and Senior Board are to be capitalized. To pluralize *Poly*, ita
 A possessive ending in s should not have an ’s, just an apostrophe.
 
 #### pound sign
-Also called a number sign or hash, this symbol (#) is derived from the once-common ℔. See **hashtag**.
+Also called a number sign or hash, this symbol (#) is derived from the once-common ℔. See [hashtag](#hashtag).
 
 #### president
 
 #### president of the Union
 Use on first reference, *PU* subseqeuntly. The president of the Union has three roles: representative for the Rensselaer Union, chair of the Executive Board, and the highest elected representative of the students in the budgetary branch of student government. The PU appoints students to serve on the E-Board.
 
-See also: **Executive Board**.
+See also: [Executive Board](#executive-board).
 
 #### president’s cabinet
 This group is made up of the vice presidents, the provost, and selected deans.
@@ -734,7 +736,7 @@ Note apostrophe and spelling. Use *Proctor’s Theatre* on first reference, *Pro
 #### Prospect Park
 
 #### Public Safety
-This is an acceptable abbreviation for the Department of Public Safety on all references. It is also an acceptable way to refer to the **Public Safety Building** on subsequent references, as long as there is no confusion between the department and the building. Use *Pub Safe* to refer to the department only in opinion pieces, if at all.
+This is an acceptable abbreviation for the Department of Public Safety on all references. It is also an acceptable way to refer to the Public Safety Building on subsequent references, as long as there is no confusion between the department and the building. Use *Pub Safe* to refer to the department only in opinion pieces, if at all.
 
 #### Public Safety Building
 
@@ -743,7 +745,7 @@ This is an acceptable abbreviation for the Department of Public Safety on all re
 #### punctuation
 Use the **oxford comma**.
 
-When pluralizing an acronym, do not use an apostrophe. Similarly, you do not need an apotrophe for references to a **decade**.
+When pluralizing an acronym, do not use an apostrophe. Similarly, you do not need an apotrophe for references to a [decade](#decade).
 >Wrong: TA's in the ’80's 
 >Right: TAs in the ’80s
 
@@ -764,7 +766,7 @@ Use double quotes (“) and (”) to enclose words and phrases. Use single quote
 >Right: He got an ‘A’ on his Earth Materials exam.
 Right: The sign read “Do Not Enter.”
 
-See **titles of works** for more rules on quotes.
+See [titles of works](#titles-of-works) for more rules on quotes.
 
 #### quotations
 
@@ -775,7 +777,7 @@ See **titles of works** for more rules on quotes.
 *Rensselaer Advantage Dollars* is a declining balance account associated with the Campus Card. Use *RAD* on all references.
 
 #### RAS syndrome
-*RAS syndrome* (where RAS stands for “redundant acronym syndrome”) is the use of a word in an acronym in a phrase using that acronym. Examples include *ATM machine*, *PIN number*, and *please RSVP*. See **Student Government Suite**.
+*RAS syndrome* (where RAS stands for “redundant acronym syndrome”) is the use of a word in an acronym in a phrase using that acronym. Examples include *ATM machine*, *PIN number*, and *please RSVP*. See [Student Government Suite](#student-government-suite).
 
 #### Rathskeller
 The food court in the center of the 1000-level of the Rensselaer Union. Currently home to Thunder Mountain Curry, The Halal Shack, Collar City Grill, and Cusato's Pizza, numerous establishments have come and gone over the years, including Chester's Chicken, Fire & Spice, and SubConnection.
@@ -788,7 +790,7 @@ Short for *Rensselaer Computing System Userid* (note that "userid" is one word).
 #### recipe
 
 #### recursion
-See **recursion**.
+See [recursion](#recursion).
 
 #### Reddit
 When referencing r/RPI, use *RPI’s subreddit*, or *Rensselaer’s subreddit* if coincident with the first reference of the Institute.
@@ -817,7 +819,7 @@ Use on first reference, use *the Union* subsequently. Do not use *Student Union*
 
 Unless a room has a specific name (e.g. the McNeil Room), when referring to rooms within the Union, use the construction *Union Room XXXX* in isolated instances, or *RU XXXX* if listing a number of rooms.
 
-*East Lobby* is the lobby facing **Freshman Hill**. *West Lobby* is the lobby facing **Quad**, the lobby clubs usually set up in. *Welcome Lobby* is the lobby on the north side of the building with study tables, couches, and formerly a saltwater fish tank.
+*East Lobby* is the lobby facing [Freshman Hill](#freshman-hill). *West Lobby* is the lobby facing [Quad](#the-quad), the lobby clubs usually set up in. *Welcome Lobby* is the lobby on the north side of the building with study tables, couches, and formerly a saltwater fish tank.
 
 #### ResLife
 
@@ -827,7 +829,7 @@ The annual reunion weekend held in early October. Use *Reunion & Homecoming week
 #### Review Board
 
 #### room numbers
-When referring to a particular room, do so in the following form: XX NNN where XX represents the building abbreviations listed in **Appendix B** and NNN represents the room number.
+When referring to a particular room, do so in the following form: XX NNN where XX represents the building abbreviations listed in [Appendix B](#appendix-b-rpi-buildings) and NNN represents the room number.
 
 #### ROTC
 Short for *Reserve Officers’ Training Corps*, use *ROTC* on all references. RPI has Army Reserve Officers' Training Corps, or *Army ROTC*; Naval Reserve Officers Training Corps, or *Navy ROTC*; and Air Force Reserve Officer Training Corps, or *Air Force ROTC*. Note the pluralization and apostrophe placement on the word “Officer” in the long form of each branch. 
@@ -854,10 +856,10 @@ Not capitalized.
 #### scare quotes
 
 #### School of
-RPI hosts five schools under the Institute's umbrella: the School of Architecture, the Lally School of Management, the School of Engineering, the School of Humanities, Arts, and Social Sciences,  and the School of Science. **IT & Web Science** is within the School of Science but often considered a separate entity.
+RPI hosts five schools under the Institute's umbrella: the School of Architecture, the Lally School of Management, the School of Engineering, the School of Humanities, Arts, and Social Sciences,  and the School of Science. [IT & Web Science](#it-web-science) is within the School of Science but often considered a separate entity.
 
 #### seasons
-Not capitalized unless in reference to **semesters**.
+Not capitalized unless in reference to [semesters](#semesters) or in an event title or proper noun.
 
 #### SEFCU
 Founded in 1934, the State Employees Federal Credit Union has a branch on the bottom floor of the Union. Use *SEFCU* on all references.
@@ -877,14 +879,14 @@ This is the term for a fourth-year undergraduate student. Use the term *seniors*
 Located in Union Room 3606, this is where many student and community artworks are displayed throughout the year. It is also used, on occasion, as a meeting room. Use *Shelnutt Gallery* on all references.
 
 #### SHPE
-The *Society of Hispanic Professional Engineers* is one half of the annual **NSBE/SHPE Career Fair**. Use *SHPE* on subsequent references.
+The *Society of Hispanic Professional Engineers* is one half of the annual [NSBE/SHPE Career Fair](#career-fair). Use *SHPE* on subsequent references.
 
 #### shuttles
 
 #### shuttle tracker
 
 #### SIS
-The *Rensselaer Student Information System* (also known as the *Self-Service Information System*; both are found on the website) can be accessed by current and former students to view their progress through **Degree Works**, request transcripts, schedule classes, and more. *Student Information System* should be used on first reference in a news piece, *SIS* should be used subsequently. *SIS* can be used on any reference in an opinion or features piece.
+The *Rensselaer Student Information System* (also known as the *Self-Service Information System*; both are found on the website) can be accessed by current and former students to view their progress through [Degree Works](#degree-works), request transcripts, schedule classes, and more. *Student Information System* should be used on first reference in a news piece, *SIS* should be used subsequently. *SIS* can be used on any reference in an opinion or features piece.
 
 #### SIS man
 Long live the king.
@@ -899,17 +901,17 @@ Required for all staff members of *The Polytechnic*.
 Slander is spoken; libel is written.
 
 #### slashes
-Generally avoid. Use a forward slash (/) to create constructions like and/or, either/or, greater than/less than if necessary. No spaces go before or after a slash, e.g., *Japanese/Romanian flair.* The exception to this is **lyrics**.
+Generally avoid. Use a forward slash (/) to create constructions like and/or, either/or, greater than/less than if necessary. No spaces go before or after a slash, e.g., *Japanese/Romanian flair.* The exception to this is [lyrics](#lyrics).
 
 #### slug
-In media, a slug is a term for a short-form name given to an article for internal use. In web publishing, like on **Pipeline**, a slug is the part of the URL which identifies a page. Find it under the “Promote” tab while making a draft.
+In media, a slug is a term for a short-form name given to an article for internal use. In web publishing, like on [Pipeline](#pipeline), a slug is the part of the URL which identifies a page. Find it under the “Promote” tab while making a draft.
 
 #### social media
 
 #### sophomore
 
 #### sorority
-See **Appendix S**.
+See [Appendix S](#appendix-s-rpi-sororities).
 
 #### spacing
 Use only one space after sentences. Never use more than one space to separate anything. Do not use spaces around dashes or hyphens. There are to be no blank lines in the text of an article.
@@ -927,7 +929,7 @@ For styling sports articles, reference the *AP Stylebook* sports guidelines sect
 All RPI teams are known as Engineers. Do not use Red Hawks as that name has been phased out.
 
 #### sports scores
-Use a **figure dash**.
+Use a [figure dash](#figure-dash).
 
 #### Spotify
 
@@ -956,12 +958,12 @@ Hyphenate.
 Capitalized when used as a proper noun. *StuGov* is acceptable on subsequent references in opinion and features pieces.
 	
 #### Student Government Suite
-Use *Student Government Suite* on first reference, *SGS* subsequently. Never use *SGS Suite* (see **RAS syndrome**).
+Use *Student Government Suite* on first reference, *SGS* subsequently. Never use *SGS Suite* (see [RAS syndrome](#ras-syndrome)).
 
 #### Student Health Center
 
 #### Student Senate
-Always refer to this body as the *Student Senate* on first reference. Use *Senate* on second reference only if it’s clear that it’s not in reference to the **Faculty Senate** or the United States Senate.
+Always refer to this body as the *Student Senate* on first reference. Use *Senate* on second reference only if it’s clear that it’s not in reference to the [Faculty Senate](#faculty-senate) or the United States Senate.
 	
 #### subscript, superscript
 The Poly only uses baseline text; never use superscripts or subscripts.
@@ -979,28 +981,28 @@ Greek houses can be suspended...
 Short for *Sport Utility Vehicle*, use *SUV* on all references.
 
 # T
-#### task force**
+#### task force
 Capitalize only when referencing a specific instance, e.g., *Greek Life Task Force*, *Arch Task Force*, *the Greek Life and Arch task forces*.
 
-#### tech dump**
+#### tech dump
 
-#### telephone numbers**
+#### telephone numbers
 Never use just a campus extension; always give the full seven- or ten-digit phone number. Put the area code, if used, in parentheses, with a space in between it and the rest of the number. The number itself should not have any spaces surrounding the hyphen in the middle.
 >Wrong: x6770
 Right: (518) 276-6770, 276-6770
 
-#### Thanksgiving Break**
+#### Thanksgiving Break
 Capitalized.
 
-#### they**
+#### they
 They is a gender-neutral pronoun, and is preferred to binary phrases like *his/hers*, and he or she.
 
-#### time and date**
+#### time and date
 Time is based on the 12-hour clock, do not use 24-hour or military time unless in direct quotes. When using am and pm, use lower case; do not separate them with a space, and do not use periods. Note that this is different from the *AP Stylebook*. Always use figures, insignificant minutes are omitted.
 >Wrong: 2pm, 2 p.m., 2 o’clock, two pm
 Right: 2 pm
 
-See **en-dash** for correct formatting of date ranges. Never abbreviate the names on months. 
+See [en dash](#en-dash) for correct formatting of date ranges. Never abbreviate the names on months. 
 
 When referring to noon and midnight, do not say *12 noon* or *12 midnight*, this is redundant.
 
@@ -1026,16 +1028,18 @@ Either of the biannual meetings hosted by the president of the Institute. Depend
 #### Trello
 A productivity platform used by *The Polytechnic*. 
 
+#### trivia
+
 #### Troy
 When referring to the city, Troy is all that is necessary. When an adjectival form is needed, use Troy as well. *Troy residents believe that Rensselaer is good for the community.* 
 
-Do not use Trojan or Troylet as an adjective or in reference to the residents of Troy. See *The Rensselaer Handbook* for a good brief description of the city. See also **Downtown Troy**.
+Do not use Trojan or Troylet as an adjective or in reference to the residents of Troy. See *The Rensselaer Handbook* for a good brief description of the city. See also [Downtown Troy](#downtown-troy).
 
 # U
 #### UAR
 See ***Union Annual Report***.
 
-#### URL**
+#### URL
 
 #### Union Administration Office
 Use *Union Admin Office* on all references.
@@ -1073,7 +1077,7 @@ Use *versus* always in news stories, *vs.* is acceptable in features and opinion
 The other way around. Do not hyphenate.
 
 #### Visitor’s Information Center
-Now called the **Public Safety Building**.
+Now called the [Public Safety Building](#public-safety-building).
 
 #### voice actors
 See **characters**.
@@ -1082,7 +1086,7 @@ See **characters**.
 Use *Voorhees Computing Center* on first reference, *VCC* subsequently. VCC is acceptable on first reference if the full form would create an unwieldy sentence, as long as the long form is used on the very next reference.
 
 #### votes
-When detailing the result of a vote, such as those from a Student Senate meeting, use **figure dashes**, identical to sports scores. List votes for, votes against, and abstentions. The exception is when all members vote the same, when the word *unanimous* is preferred to figures. 
+When detailing the result of a vote, such as those from a Student Senate meeting, use [figure dashes](#figure-dashes), identical to sports scores. List votes for, votes against, and abstentions. The exception is when all members vote the same, when the word *unanimous* is preferred to figures. 
 >Wrong: The Grand Marshal counted the vote incorrectly, reading 17 to three instead of 16 to four.
 >Wrong: After discussion, the members voted four in favor and 13 against.
 >Right: The third motion of the night passed with a vote of 17‒0‒1.
@@ -1105,13 +1109,13 @@ Capitalize.
 #### www.
 Never use this subdomain in a URL unless it’s necessary to get to the website, or if the website uses www1. or www2. (these are all super rare!) In all other cases, just use the root domain. 
 
-See also: **URL**.
+See also: [URL](#url).
 
 # X
 # Y
 # Z
 #### zip code
-	Believe it or not, *ZIP Code* is a trademark owned by the USPS, use *zip code* instead.
+Believe it or not, *ZIP Code* is a trademark owned by the USPS, use *zip code* instead.
 	
 # Appendix A: Athletic Facilities
 *’86 Field*
