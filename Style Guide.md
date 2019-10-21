@@ -1176,10 +1176,10 @@ Location
 University’s name (subsequent reference)  
 Team’s name  
 
-- **Quinnipiac University**
-Hamden, C.T.
-Quinnipiac
-Bobcats
+- **Quinnipiac University**  
+Hamden, C.T.  
+Quinnipiac  
+Bobcats  
 
 - **Boston University**
 Boston, Mass.
