@@ -1,7 +1,47 @@
 # *The Polytechnic* Style Guide
-Updated 10/20/2019 at 8:24 pm. That's "mm/dd/yyyy," by the way.
+Updated 10/20/2019 at 9:49 pm. That's "mm/dd/yyyy," by the way.
 
-# \#
+# Contents
+
+[How to use this guide](#how-to-use-this-guide)
+[#](#\#)
+[A](#a)
+[B](#b)
+[C](#c)
+[D](#d)
+[E](#e)
+[F](#f)
+[G](#g)
+[H](#h)
+[I](#i)
+[J](#j)
+[K](#k)
+[L](#l)
+[M](#m)
+[N](#n)
+[O](#o)
+[P](#p)
+[Q](#q)
+[R](#r)
+[S](#s)
+[T](#t)
+[U](#u)
+[V](#v)
+[W](#w)
+[X](#x)
+[Y](#y)
+[Z](#z)
+[Appendix A: Athletic Facilities](#appendix-a-athletic-facilities)
+[Appendix B: Rensselaer Buildings](#appendix-b-rpi-buildings)
+[Appendix C: Colleges](#appendix-c-colleges)
+[Appendix F: Rensselaer Fraternities](#appendix-f-rpi-fraternities)
+[Appendix S: Rensselaer Sororities](#appendix-s-rpi-sororities)
+
+# How to use this guide
+This guide is built to be as easily accessed as possible. Words in *italics* are used to show example usage, and e.g. means "for example."
+
+
+# \# 
 #### 15th Street footbridge
 Use *the 15th Street footbridge* on the first reference and *the footbridge* on subsequent references. Footbridge should be lowercase.
 
@@ -997,7 +1037,7 @@ Capitalized.
 #### they
 They is a gender-neutral pronoun, and is preferred to binary phrases like *his/hers*, and he or she.
 
-#### time and date
+#### time and date references
 Time is based on the 12-hour clock, do not use 24-hour or military time unless in direct quotes. When using am and pm, use lower case; do not separate them with a space, and do not use periods. Note that this is different from the *AP Stylebook*. Always use figures, insignificant minutes are omitted.
 >Wrong: 2pm, 2 p.m., 2 o’clock, two pm  
 Right: 2 pm  
