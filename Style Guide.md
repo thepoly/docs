@@ -1,5 +1,5 @@
 # *The Polytechnic* Style Guide
-Updated 10/17/2019 at 5:06 pm. That's "mm/dd/yyyy," by the way.
+Updated 10/20/2019 at 8:24 pm. That's "mm/dd/yyyy," by the way.
 
 # \#
 #### 15th Street footbridge
@@ -479,9 +479,9 @@ APO
 
 #### hashtag
 When referring to a specific hashtag, use the pound sign (#) followed by the specific hashtag. Capitalization and spelling of hashtags should not be altered from their original appearance.
-> Wrong: hashtag #ThePoly 
-> Wrong: hashtag The Poly
-> Right: #ThePoly
+> Wrong: hashtag #ThePoly  
+> Wrong: hashtag The Poly  
+> Right: #ThePoly  
 
 #### HASS
 
@@ -575,9 +575,9 @@ The *Rensselaer Learning Management System* is a BlackBoard portal used by some 
 
 #### location
 Except in official contexts, do not capitalize *village*, *town*, or *city*. 
-> Wrong: We drove through the Town of Colonie.
-> Right: We drove through the town of Colonie.
-> Right: The City of Troy has cracked down on illegal drug use.
+> Wrong: We drove through the Town of Colonie.  
+> Right: We drove through the town of Colonie.  
+> Right: The City of Troy has cracked down on illegal drug use.  
 
 #### lyrics
 
@@ -600,17 +600,17 @@ The McNeil Room is the official name for the large room in the center of the sec
 #### money
 Use the dollar sign ($) rather than the word dollar, but use the word cents rather than the cent sign (¢). Always use figures for monetary references. Insignificant digits should be omitted.
 
->Wrong: one dollar, $1.00, $one
->Right: $1
+>Wrong: one dollar, $1.00, $one  
+>Right: $1  
 
->Wrong: $0.75
->Right: $.75, 75 cents
+>Wrong: $0.75  
+>Right: $.75, 75 cents  
 
->Wrong: one hundred thousand dollars
->Right: $100,000
+>Wrong: one hundred thousand dollars  
+>Right: $100,000  
 
->Wrong: 2.25 million dollars
->Right: $2.5 million
+>Wrong: 2.25 million dollars  
+>Right: $2.5 million  
 
 For foreign currencies, change the currency symbol when necessary, or write out the currency if that’s unclear: *It cost me ¥5,000 for a ticket to the Tokyo Sky Tree.* *A loaf of bread was 20 lira.*
 
@@ -652,9 +652,9 @@ Always spell out numbers, no matter how large, at the beginning of a sentence. I
 Spell out numbers from *zero* to *nine*, and use figures for numbers *10* and larger. For very large numbers, use words like *million*. 
 
 Place a comma around every group of 1,000.
->Wrong: 123456789
->Wrong: 123.456.789
->Right: 123,456,789
+>Wrong: 123456789  
+>Wrong: 123.456.789  
+>Right: 123,456,789  
 
 Numbers are sometimes preferred in [fractions](#fractions). 
 
@@ -746,13 +746,13 @@ This is an acceptable abbreviation for the Department of Public Safety on all re
 Use the **oxford comma**.
 
 When pluralizing an acronym, do not use an apostrophe. Similarly, you do not need an apotrophe for references to a [decade](#decade).
->Wrong: TA's in the ’80's 
->Right: TAs in the ’80s
+>Wrong: TA's in the ’80's  
+>Right: TAs in the ’80s  
 
 If two punctuation marks are called for in the same location, use only the stronger mark. Do not use an interrobang (‽) as an alternative.
->Wrong: What the hell?!
->Right: What the hell?
->Right: What the hell!
+>Wrong: What the hell?!  
+>Right: What the hell?  
+>Right: What the hell!  
 
 # Q
 #### Q&A
@@ -763,8 +763,8 @@ Use *Quad* on all references. The Quadrangle Residence Hall is located on 15th S
 
 #### quotation marks
 Use double quotes (“) and (”) to enclose words and phrases. Use single quotes (‘) and (’) to enclose single letters.
->Right: He got an ‘A’ on his Earth Materials exam.
-Right: The sign read “Do Not Enter.”
+>Right: He got an ‘A’ on his Earth Materials exam.  
+>Right: The sign read “Do Not Enter.”  
 
 See [titles of works](#titles-of-works) for more rules on quotes.
 
@@ -988,8 +988,8 @@ Capitalize only when referencing a specific instance, e.g., *Greek Life Task For
 
 #### telephone numbers
 Never use just a campus extension; always give the full seven- or ten-digit phone number. Put the area code, if used, in parentheses, with a space in between it and the rest of the number. The number itself should not have any spaces surrounding the hyphen in the middle.
->Wrong: x6770
-Right: (518) 276-6770, 276-6770
+>Wrong: x6770  
+>Right: (518) 276-6770, 276-6770  
 
 #### Thanksgiving Break
 Capitalized.
@@ -999,8 +999,8 @@ They is a gender-neutral pronoun, and is preferred to binary phrases like *his/h
 
 #### time and date
 Time is based on the 12-hour clock, do not use 24-hour or military time unless in direct quotes. When using am and pm, use lower case; do not separate them with a space, and do not use periods. Note that this is different from the *AP Stylebook*. Always use figures, insignificant minutes are omitted.
->Wrong: 2pm, 2 p.m., 2 o’clock, two pm
-Right: 2 pm
+>Wrong: 2pm, 2 p.m., 2 o’clock, two pm  
+Right: 2 pm  
 
 See [en dash](#en-dash) for correct formatting of date ranges. Never abbreviate the names on months. 
 
@@ -1087,9 +1087,9 @@ Use *Voorhees Computing Center* on first reference, *VCC* subsequently. VCC is a
 
 #### votes
 When detailing the result of a vote, such as those from a Student Senate meeting, use [figure dashes](#figure-dashes), identical to sports scores. List votes for, votes against, and abstentions. The exception is when all members vote the same, when the word *unanimous* is preferred to figures. 
->Wrong: The Grand Marshal counted the vote incorrectly, reading 17 to three instead of 16 to four.
->Wrong: After discussion, the members voted four in favor and 13 against.
->Right: The third motion of the night passed with a vote of 17‒0‒1.
+>Wrong: The Grand Marshal counted the vote incorrectly, reading 17 to three instead of 16 to four.  
+>Wrong: After discussion, the members voted four in favor and 13 against.  
+>Right: The third motion of the night passed with a vote of 17‒0‒1.  
 
 # W
 #### Web Technologies Group
@@ -1181,178 +1181,178 @@ Hamden, C.T.
 Quinnipiac  
 Bobcats  
 
-- **Boston University**
-Boston, Mass.
-BU
-Terriers
+- **Boston University**  
+Boston, Mass.  
+BU  
+Terriers  
 
-- **University of Massachusetts Dartmouth**
-Dartmouth, Mass.
-UMass Dartmouth
-Corsairs
+- **University of Massachusetts Dartmouth**  
+Dartmouth, Mass.  
+UMass Dartmouth  
+Corsairs  
 
-- **Hamilton College**
-Clinton, N.Y.
-Hamilton
-Continentals
+- **Hamilton College**  
+Clinton, N.Y.  
+Hamilton  
+Continentals  
 
-- **University of Massachusetts Amherst**
-Amherst, Mass.
-UMass Amherst
-Minutemen/women
+- **University of Massachusetts Amherst**  
+Amherst, Mass.  
+UMass Amherst  
+Minutemen/women  
 
-- **Bowling Green State University**
-Bowling Green, Ohio
-Bowling Green
-Falcons
+- **Bowling Green State University**  
+Bowling Green, Ohio  
+Bowling Green  
+Falcons  
 
-- **University of Massachusetts Lowell**
-Lowell, Mass.
-UMass Lowell, Lowell
-Riverhawks
+- **University of Massachusetts Lowell**  
+Lowell, Mass.  
+UMass Lowell, Lowell  
+Riverhawks  
 
-- **Harvard University**
-Cambridge, Mass.
-Harvard
-Crimson
+- **Harvard University**  
+Cambridge, Mass.  
+Harvard  
+Crimson  
 
-- **Rochester Institute of Technology**
-Rochester, N.Y.
-RIT
-Tigers
+- **Rochester Institute of Technology**  
+Rochester, N.Y.  
+RIT  
+Tigers  
 
-- **Brown University**
-Providence, R.I.
-Brown
-Bears
+- **Brown University**  
+Providence, R.I.  
+Brown  
+Bears  
 
-- **Russell Sage College**
-Troy, N.Y.
-Sage, Sage College
-Gators
+- **Russell Sage College**  
+Troy, N.Y.  
+Sage, Sage College  
+Gators  
 
-- **Carnegie Mellon University**
-Pittsburg, Pa.
-CMU
-Tartans
+- **Carnegie Mellon University**  
+Pittsburg, Pa.  
+CMU  
+Tartans  
 
-- **University of New Hampshire, The**
-Durham, N.H.
-UNH
-Wildcats
+- **University of New Hampshire, The**  
+Durham, N.H.  
+UNH  
+Wildcats  
 
-- **Hudson Valley Community College**
-Troy, N.Y.
-HVCC
-Vikings
+- **Hudson Valley Community College**  
+Troy, N.Y.  
+HVCC  
+Vikings  
 
-- **Siena College**
-Loudonville, N.Y.
-Siena
-Saints
+- **Siena College**  
+Loudonville, N.Y.  
+Siena  
+Saints  
 
-- **Clarkson University**
-Potsdam, N.Y.
-Clarkson
-Golden Knights
+- **Clarkson University**  
+Potsdam, N.Y.  
+Clarkson  
+Golden Knights  
 
-- **University of Vermont, The**
-Burlington, V.T
-Vermont, UVM
-Catamounts
+- **University of Vermont, The**  
+Burlington, V.T  
+Vermont, UVM  
+Catamounts  
 
-- **Massachusetts Institute of Technology**
-Cambridge, Mass.
-MIT
-Engineers
+- **Massachusetts Institute of Technology**  
+Cambridge, Mass.  
+MIT  
+Engineers  
 
-- **Skidmore College**
-Saratoga Springs, N.Y.
-Skidmore
-Thoroughbreds
+- **Skidmore College**  
+Saratoga Springs, N.Y.  
+Skidmore  
+Thoroughbreds  
 
-- **Colgate University**
-Hamilton, N.Y.
-Colgate
-Red Raiders
+- **Colgate University**  
+Hamilton, N.Y.  
+Colgate  
+Red Raiders  
 
-- **Vassar College**
-Poughkeepsie, N.Y.
-Vassar
-Brewers
+- **Vassar College**  
+Poughkeepsie, N.Y.  
+Vassar  
+Brewers  
 
-- **Niagara University**
-Lewiston, N.Y.
-Niagara
-Purple Eagles
+- **Niagara University**  
+Lewiston, N.Y.  
+Niagara  
+Purple Eagles  
 
-- **St. Lawrence University**
-Canton, N.Y.
-St. Lawrence
-Saints
+- **St. Lawrence University**  
+Canton, N.Y.  
+St. Lawrence  
+Saints  
 
-- **College of the Holy Cross**
-Worcester, Mass.
-Holy Cross
-Crusaders
+- **College of the Holy Cross**  
+Worcester, Mass.  
+Holy Cross  
+Crusaders  
 
-- **William Smith College**
-Geneva, N.Y.
-William Smith
-Herons
+- **William Smith College**  
+Geneva, N.Y.  
+William Smith  
+Herons  
 
-- **Michigan State University**
-East Lansing, Mich.
-MSU, Michigan State
-Spartans
+- **Michigan State University**  
+East Lansing, Mich.  
+MSU, Michigan State  
+Spartans  
 
-- **University at Albany**
-Albany, N.Y.
-SUNY Albany, UAlbany
-Great Danes
+- **University at Albany**  
+Albany, N.Y.  
+SUNY Albany, UAlbany  
+Great Danes  
 
-- **Cornell University**
-Ithaca, N.Y.
-Cornell
-Big Red
+- **Cornell University**  
+Ithaca, N.Y.  
+Cornell  
+Big Red  
 
-- **Worcester Polytechnic Institute**
-Worcester, Mass.
-WPI
-Engineers
+- **Worcester Polytechnic Institute**  
+Worcester, Mass.  
+WPI  
+Engineers  
 
-- **Princeton University**
-Princeton, N.J.
-Princeton
-Tigers
+- **Princeton University**  
+Princeton, N.J.  
+Princeton  
+Tigers  
 
-- **Yale University**
-New Haven, C.T.
-Yale
-Bulldogs
+- **Yale University**  
+New Haven, C.T.  
+Yale  
+Bulldogs  
 
-- **Dartmouth College**
-Hanover, N.H.
-Dartmouth
-Big Green
+- **Dartmouth College**  
+Hanover, N.H.  
+Dartmouth  
+Big Green  
 
-- **United States Military Academy**
-West Point, N.Y.
-Army
-Cadets, Black Knights
+- **United States Military Academy**  
+West Point, N.Y.  
+Army  
+Cadets, Black Knights  
 
-- **Union College**
-Schenectady, N.Y.
-Union
-Flying Dutchmen/women, Skating Dutchmen/women
+- **Union College**  
+Schenectady, N.Y.  
+Union  
+Flying Dutchmen/women, Skating Dutchmen/women  
 
-- **Providence College**
-Providence, R.I.
-Providence
-Friars
+- **Providence College**  
+Providence, R.I.  
+Providence  
+Friars  
 
 # Appendix F: RPI Fraternities
-The following Greek organizations are part of the **Interfraternity Council**.
+The following Greek organizations are part of the [Interfraternity Council](#interfraternity-council).
 - Acacia
 - Alpha Chi Rho (Crows)
 - Alpha Epsilon Pi 
