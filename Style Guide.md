@@ -52,10 +52,10 @@ This construction is an adjective, so hyphenate it.
 No hyphen.
 
 #### ’86 Field
-See **athletic facilities**.
+See [athletic facilities](#athletic-facilities).
 
 #### ’87 Gym
-See **athletic facilities**.
+See [athletic facilities](#athletic-facilities).
 
 # A
 #### a cappella
@@ -331,7 +331,16 @@ Use diacritics whenever necessary, like in *résumé*, *Ampère*, *Brontë*, *a�
 #### dining halls
 
 #### directions
-Capitalize north, south, etc., when referencing a specific region or the direction is a part of a proper name, e.g., *East Campus Athletic Village*, *West Hall*, *the Northeast*. Do not capitalize when using as a direction, e.g., *take five steps to the north*.
+Capitalize north, south, etc., when referencing a specific region or the direction is a part of a proper name, e.g., *East Campus 
+
+
+
+
+
+
+
+
+Village*, *West Hall*, *the Northeast*. Do not capitalize when using as a direction, e.g., *take five steps to the north*.
 
 #### Director of the Union
 
