@@ -48,6 +48,9 @@ The purpose of _The Polytechnic_ shall be to keep the members of the Rensselaer 
 
         1. Photography Editor
             1. The photography editor is directly responsible for taking, gathering, and preparing for publication all photos that appear on the website and social media each week. He or she is also directly responsible for the maintenance of the photography equipment owned by _The Polytechnic._
+            
+        1. Social Media Editor
+            1. The social media editor is directly resposible for the promotion of _The Polytechnic_'s content on social media and on campus. He or she is also responsible for setting the schedule of posts, coordinating and collecting the content of posts from various other sections, and publishing it. 
  
         1. In addition to the above, each department editor is directly responsible for their department and the membership therein. 
 
