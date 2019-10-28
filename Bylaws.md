@@ -48,11 +48,14 @@ The purpose of _The Polytechnic_ shall be to keep the members of the Rensselaer 
 
         1. Photography Editor
             1. The photography editor is directly responsible for taking, gathering, and preparing for publication all photos that appear on the website and social media each week. He or she is also directly responsible for the maintenance of the photography equipment owned by _The Polytechnic._
+            
+        1. Publicity Editor
+            1. The publicity editor is directly responsible for the promotion of _The Polytechnic_'s content on social media and on campus. He or she is also responsible for postering around campus, setting the schedule of posts on social media, coordinating and collecting the content of posts from various other sections, and publishing it. 
  
         1. In addition to the above, each department editor is directly responsible for their department and the membership therein. 
 
     1. Associate Editors
-        1. The associate editors shall consist of no more than two associate editors each for the following departments: News, Features, Sports, Editorial/Opinion, Composing, Copy, and Photography. Each associate editor assists his or her supervising department editor in whatever fashion that department editor deems necessary. 
+        1. The associate editors shall consist of no more than two associate editors each for the following departments: News, Features, Sports, Editorial/Opinion, Publicity, Copy, and Photography. Each associate editor assists his or her supervising department editor in whatever fashion that department editor deems necessary. 
 
         1. There shall be on the editorial board, as ex-officio members, two regular director positions (advertising director and technology director) and any contingency director positions as the need arises. All directors shall be appointed by the editor in chief. An appointment must be confirmed and may be rejected by a two-thirds vote of the Editorial Board. Directors must be full-time, activity fee-paying students or their spouses. 
 
