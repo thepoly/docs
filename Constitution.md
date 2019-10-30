@@ -51,13 +51,11 @@ The purpose of _The Polytechnic_ shall be to keep the members of the Rensselaer 
 
 1. The editorial board shall be the governing body of _The Polytechnic_. Any decision made individually or otherwise by any officer(s) or other editor(s) during the discharge of their duties may be repealed or directed by a majority vote of an editorial board quorum. Its voting members shall be the senior editors, department editors, associate editors, and directors. Additionally, the Grand Marshal, the President of the Union, and all coordinators are granted the right to attend all business meetings and editorial content meetings. They shall not vote at said meetings nor count towards or against quorum.
 
-2. The Senior Board shall consist of the senior editors of the editorial board.
+2. The editor in chief has the power to create new committees whenever he or she deems necessary. He or she shall appoint a chair and designate the other members of the committee. Committee chairs must be chosen from the membership of the editorial board. The jurisdiction of the committee and its chair shall be determined by the editor in chief.
 
-3. The editor in chief has the power to create new committees whenever he or she deems necessary. He or she shall appoint a chair and designate the other members of the committee. Committee chairs must be chosen from the membership of the editorial board. The jurisdiction of the committee and its chair shall be determined by the editor in chief.
+3. Committee chairs are required to give reports during each business meeting as to the status of their committee’s activities. 
 
-4. Committee chairs are required to give reports during each business meeting as to the status of their committee’s activities. 
-
-5. All committee meetings are open to any member, and the places and times of said meetings shall be posted in the offices of _The Polytechnic._
+4. All committee meetings are open to any member, and the places and times of said meetings shall be posted in the offices of _The Polytechnic._
 
 ## Section V: Meetings
 
