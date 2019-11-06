@@ -1,5 +1,5 @@
 # *The Polytechnic* Style Guide
-Updated 11/06/2019 at 12:43 am. That's "mm/dd/yyyy," by the way.
+Updated 11/06/2019 at 4:04 pm. That's "mm/dd/yyyy," by the way.
 
 # Contents
 
@@ -52,10 +52,10 @@ This construction is an adjective, so hyphenate it.
 No hyphen.
 
 #### ’86 Field
-See **athletic facilities**.
+See [athletic facilities](#athletic-facilities).
 
 #### ’87 Gym
-See **athletic facilities**.
+See [athletic facilities](#athletic-facilities).
 
 # A
 #### a cappella
