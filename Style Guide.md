@@ -1,5 +1,5 @@
 # *The Polytechnic* Style Guide
-Updated 10/20/2019 at 9:49 pm. That's "mm/dd/yyyy," by the way.
+Updated 11/06/2019 at 12:43 am. That's "mm/dd/yyyy," by the way.
 
 # Contents
 
@@ -52,10 +52,10 @@ This construction is an adjective, so hyphenate it.
 No hyphen.
 
 #### ’86 Field
-See [athletic facilities](#athletic-facilities).
+See **athletic facilities**.
 
 #### ’87 Gym
-See [athletic facilities](#athletic-facilities).
+See **athletic facilities**.
 
 # A
 #### a cappella
@@ -262,6 +262,8 @@ When referring to someone who graduated with multiple degrees from Rensselaer, c
 #### clubs
 See [Union organizations](#union-organizations).
 
+#### Club Management System
+
 #### College Media Association
 The College Media Association hosts the Spring National College Media Convention in New York City, which members of *The Poly* attend almost every year.
 
@@ -331,16 +333,7 @@ Use diacritics whenever necessary, like in *résumé*, *Ampère*, *Brontë*, *a�
 #### dining halls
 
 #### directions
-Capitalize north, south, etc., when referencing a specific region or the direction is a part of a proper name, e.g., *East Campus 
-
-
-
-
-
-
-
-
-Village*, *West Hall*, *the Northeast*. Do not capitalize when using as a direction, e.g., *take five steps to the north*.
+Capitalize north, south, etc., when referencing a specific region or the direction is a part of a proper name, e.g., *East Campus Athletic Village*, *West Hall*, *the Northeast*. Do not capitalize when using as a direction, e.g., *take five steps to the north*.
 
 #### Director of the Union
 
@@ -454,6 +447,9 @@ A latin expression meaning “and so forth,” use *etc.* (note punctuation) in 
 When using an ordinal (first, second, third, etc.) followed by “year,” always hyphenate.
 
 #### first year experience
+
+#### Fiscal Year
+Capitalized in reference to a specific year, e.g. *Fiscal Year 2019*. This can be abbreviated as *FY 19*, but a nonspecific reference is not capitalized: *fiscal year*.
 
 #### FIXX
 This acronym doesn’t actually stand for anything; it is officially short for facilities work request. Use *FIXX* to refer to the organization a student, club officer, or faculty member requests to repair facilities on campus. 
@@ -587,6 +583,8 @@ Use italics to indicate emphasis; do not use boldface or uppercase for this purp
 See also: [titles of works](#titles-of-works).
 
 # J
+#### Job Link
+
 #### Joint Board
 
 #### Judicial Board
@@ -615,6 +613,8 @@ See Appendix?
 
 #### LGBTQ
 Though there are many sexual orientations, The Poly uses *LGBTQ* to refer to the entire spectrum.
+
+#### Liberty League
 
 #### like
 *Like* is preferred over *such as*.
@@ -821,6 +821,7 @@ See [titles of works](#titles-of-works) for more rules on quotes.
 
 # R
 #### racism
+If something is racist, it can be called so. Be careful with this designation, however.
 
 #### RAD
 *Rensselaer Advantage Dollars* is a declining balance account associated with the Campus Card. Use *RAD* on all references.
@@ -834,9 +835,8 @@ The food court in the center of the 1000-level of the Rensselaer Union. Currentl
 #### RCS ID
 Short for *Rensselaer Computing System Userid* (note that "userid" is one word). Use *RCS ID* on all references.
 
-#### research
-
 #### recipe
+See [fractions](#fractions) for how to refer an amount of ingredient. Use the common abbreviations for measurements, e.g. *cup*, *Tbsp.*, *tsp.*, *oz.* See the [Bon Appétit website](#https://www.bonappetit.com/recipes) for all things recipe formatting.
 
 #### recursion
 See [recursion](#recursion).
@@ -849,8 +849,10 @@ To refer to a subreddit, do not capitalize. Use *the [subreddit name] subreddit*
 To refer to a Reddit user, use *Reddit user [username]*. Do not use *u/[username]*.
 
 #### Rensselaer Collegiate Store
+This is the proper name for the bookstore. Use *Rensselaer Collegiate Store* on first reference, and *the bookstore* or *the store* subsequently.
 
-#### The Rensselaer Handbook
+#### *Rensselaer Handbook of Student Rights and Responsibilities*
+This document outlines the rules for students. Use *Rensselaer Handbook* (italicized) or *the handbook*.
 
 #### Rensselaer Plan
 
@@ -870,12 +872,14 @@ Unless a room has a specific name (e.g. the McNeil Room), when referring to room
 
 *East Lobby* is the lobby facing [Freshman Hill](#freshman-hill). *West Lobby* is the lobby facing [Quad](#the-quad), the lobby clubs usually set up in. *Welcome Lobby* is the lobby on the north side of the building with study tables, couches, and formerly a saltwater fish tank.
 
+#### *Rensselaer Union Guidelines & Procedures*
+A document outlining the guidelines and procedures of the Union. Always italicize.
+
 #### ResLife
+Now called *Student Living and Learning*.
 
 #### Reunion & Homecoming
 The annual reunion weekend held in early October. Use *Reunion & Homecoming weekend* or *Reunion & Homecoming* on first reference, noting punctuation and capitalization. Use an alternate title like *reunion* or *the weekend* on subsequent references.
-
-#### Review Board
 
 #### room numbers
 When referring to a particular room, do so in the following form: XX NNN where XX represents the building abbreviations listed in [Appendix B](#appendix-b-rpi-buildings) and NNN represents the room number.
@@ -884,8 +888,10 @@ When referring to a particular room, do so in the following form: XX NNN where X
 Short for *Reserve Officers’ Training Corps*, use *ROTC* on all references. RPI has Army Reserve Officers' Training Corps, or *Army ROTC*; Naval Reserve Officers Training Corps, or *Navy ROTC*; and Air Force Reserve Officer Training Corps, or *Air Force ROTC*. Note the pluralization and apostrophe placement on the word “Officer” in the long form of each branch. 
 
 #### RPI Alert
+RPI's emergency notification system.
 
 #### RPI Petitions
+The [Web Tech](#web-technologies-group)project allowing students to file petitions to be responded to by the [Student Senate](#student-senate).
 
 #### RPI Playhouse
 *RPI Playhouse* on first reference, the *Playhouse* subsequently. Do not use *Rensselaer Playhouse*. 
@@ -893,16 +899,23 @@ Short for *Reserve Officers’ Training Corps*, use *ROTC* on all references. RP
 #### RPI TV
 
 #### Rules and Elections Committee
+Use on first reference, *R&E* subsequently.
 
 #### rush
 Not capitalized.
 
-#### RSDH
+#### Russell Sage Dining Hall
+Use on first reference, *Sage Dining Hall* subsequently. Do not use *Faculty-Staff Dining Hall*, this is a separate facility.
 
 #### Russell Sage Lab
+Use on first reference, *Sage Lab* subsequently. Never use Russell Sage Building.
 
 # S
+#### SARP
+Use *Student Activities Resource Person* on first reference, *SARP* subsequently.
+
 #### scare quotes
+Use of quotation marks when not strictly neccessary, often used when refering to non-standard terms. Often, this implies doubt, so be careful.
 
 #### School of
 RPI hosts five schools under the Institute's umbrella: the School of Architecture, the Lally School of Management, the School of Engineering, the School of Humanities, Arts, and Social Sciences,  and the School of Science. [IT & Web Science](#it-web-science) is within the School of Science but often considered a separate entity.
@@ -914,7 +927,7 @@ Not capitalized unless in reference to [semesters](#semesters) or in an event ti
 Founded in 1934, the State Employees Federal Credit Union has a branch on the bottom floor of the Union. Use *SEFCU* on all references.
 
 #### semesters
-Use *Fall*, *Spring*, *Summer*, and *Arch*. Note capitalization. For the mandatory semester away in the fall or spring after Arch, use *Fall Semester Away* or *Spring Semester Away*.
+Use *Fall*, *Spring*, *Summer*, and *Arch semester*. Note capitalization. For the mandatory semester away in the fall or spring after Arch, use *Fall semester away* or *Spring semester away*.
 
 #### senator
 Not capatalized unless used as a title.
@@ -931,6 +944,7 @@ Located in Union Room 3606, this is where many student and community artworks ar
 The *Society of Hispanic Professional Engineers* is one half of the annual [NSBE/SHPE Career Fair](#career-fair). Use *SHPE* on subsequent references.
 
 #### shuttles
+There are two shuttle routes, the *East Campus* and *West Campus* routes which are served by the East and West campus shuttles.
 
 #### shuttle tracker
 
@@ -958,6 +972,7 @@ In media, a slug is a term for a short-form name given to an article for interna
 #### social media
 
 #### sophomore
+This is the term for an undergraduate student who is in their second year of earning a bachelor's degree. Use *sophomores* to describe a group of these students.
 
 #### sorority
 See [Appendix S](#appendix-s-rpi-sororities).
@@ -980,16 +995,17 @@ All RPI teams are known as Engineers. Do not use Red Hawks as that name has been
 #### sports scores
 Use a [figure dash](#figure-dash).
 
-#### Spotify
-
 #### Spring Break
 Capitalize.
 
 #### Stacwyck
+This is the dorm complex behind ECAV. To refer to a specific building in the complex on first reference, use the following construction: *the Rousseau Residence Hall in the Stacwyck Apartments*. One subsequent references, the name of the building is acceptable, e.g. *Rousseau*.
 
 #### staff
+All the members of an organization. Do not confuse with [faculty](#faculty).
 
 #### states
+Use full names on all references and post office abbreviations, e.g. *MA*, *NY*, *IN* sparingly, if at all.
 
 #### STEM
 An abbreviation for science, technology, engineering, and math, *STEM* is acceptable on all references. Do not use *STEAM* unless in a direct quote.
@@ -1009,7 +1025,8 @@ Capitalized when used as a proper noun. *StuGov* is acceptable on subsequent ref
 #### Student Government Suite
 Use *Student Government Suite* on first reference, *SGS* subsequently. Never use *SGS Suite* (see [RAS syndrome](#ras-syndrome)).
 
-#### Student Health Center
+#### Student Health Services
+The *Student Health Services* include the *Student Health Center* and the *Counseling Center*.
 
 #### Student Senate
 Always refer to this body as the *Student Senate* on first reference. Use *Senate* on second reference only if it’s clear that it’s not in reference to the [Faculty Senate](#faculty-senate) or the United States Senate.
@@ -1021,7 +1038,7 @@ The Poly only uses baseline text; never use superscripts or subscripts.
 Avoid references to suicide unless absolutely neccessary. Never use the word “commit” in reference to a suicide, as it implies a crime.
 
 #### sunset
-Inactivity.
+A term applied to clubs and other organizations to designate inactivity.
 
 #### suspension
 Greek houses can be suspended...
@@ -1030,10 +1047,14 @@ Greek houses can be suspended...
 Short for *Sport Utility Vehicle*, use *SUV* on all references.
 
 # T
+#### T-shirt
+Use *T-shirt* on first reference, *tee* may be used subsequently.
+
 #### task force
 Capitalize only when referencing a specific instance, e.g., *Greek Life Task Force*, *Arch Task Force*, *the Greek Life and Arch task forces*.
 
 #### tech dump
+Places on campus where old electronics are discarded and often scavenged by students. See [this Imgur album](https://imgur.com/a/MBpwM) for maps to all the tech dumps on campus.
 
 #### telephone numbers
 Never use just a campus extension; always give the full seven- or ten-digit phone number. Put the area code, if used, in parentheses, with a space in between it and the rest of the number. The number itself should not have any spaces surrounding the hyphen in the middle.
@@ -1060,10 +1081,24 @@ For date references, avoid such constructions as *last Tuesday* or *next Monday*
 For example, if the date of issue is Wednesday, November 6, write time references as follows: *At a surprise meeting Monday, the Senate voted against the new parking proposal. The movie Jurassic Park will be the UPAC Cinema offering on Friday.*
 
 #### titles of persons
+On first reference, an individual's full title should be used, e.g. *First Chairman of the People's Republic of China Mao Zedong*. On subseqeunt references, use only the last name, e.g. *Mao*. (Chinese people have their family name come before their given name.) For a listing of individuals and their current titles, refer to the [campus directory](https://info.rpi.edu/)
+
+Titles should be capitalized when preceding a name, but not when following. Department names should still be capitalized if they are part of a title following a name, e.g. *First Chairman of the People's Republic of China Mao Zedong and Shirley Ann Jackson, president of Rensselaer Polytechnic Institute, discussed leadership over the masses*.
 
 #### titles of works
+A good rule of thumb for determining whether to italicize or put in quotations is the following: short works are put in quotes, long works are italicized.
+
+Use italics when refering to the title of any publication, movie, journal, software program, video game, TV show, book, play, album, lecture series, or works of art.
+
+Names of documents, like the *Rensselaer Union Guidelines & Procedures* are always italicized.
+
+Use quotation marks to enclose the titles of songs, short stories, poems, TV episodes, *Poly* columns, theses, symphonies, board games, newspaper and magazine articles, or lecture titles.
+
+From the Grammarly blog, "Proper names of ships and other vessels should be italicized just as titles are," e.g. the *Enola Gay*, *Challenger,* *Super Chief*, and *Orient Express*. Prefixes like H.M.S. and U.S.S are not italicized, e.g. the U.S.S. *Indianapolis*.
+
 
 #### top hat
+A weekly opinion piece written by the [Grand Marshal](#grand-marshal).
 
 #### to travel (verb)
 Use the following spellings for *The Poly*: traveled, traveler, traveling. Although there are several acceptable spellings for the tenses of the verb, *The Pol*y uses the above for consistency.
@@ -1078,6 +1113,7 @@ Either of the biannual meetings hosted by the president of the Institute. Depend
 A productivity platform used by *The Polytechnic*. 
 
 #### trivia
+The [Clubhouse Pub](#clubhouse-pub) hosts trivia, usually for those 21 and over.
 
 #### Troy
 When referring to the city, Troy is all that is necessary. When an adjectival form is needed, use Troy as well. *Troy residents believe that Rensselaer is good for the community.* 
@@ -1089,6 +1125,7 @@ Do not use Trojan or Troylet as an adjective or in reference to the residents of
 See ***Union Annual Report***.
 
 #### URL
+Omit the subdomain *www.* from web addresses. Do not use *http://* or trailing slashes unless neccessary to access the site. 
 
 #### Union Administration Office
 Use *Union Admin Office* on all references.
@@ -1097,7 +1134,7 @@ Use *Union Admin Office* on all references.
 Comprehensive document detailing the Rensselaer Union’s annual budget. *UAR* is acceptable on subsequent references, always in italics.
 
 #### Union Annual Report Committee
-Do not italicize. May use **UAR Committee** on subsequent references.
+Do not italicize. May use *UAR Committee* on subsequent references.
 
 #### Union organizations
 Clubs part of the Rensselaer Union (more properly known as “organizations”) are grouped into two main categories.
