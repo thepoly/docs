@@ -408,6 +408,9 @@ This is the governing body of the [Rensselaer Union](#rensselaer-union). Its mem
 
 *E-Board* or *Union Executive Board* may be used on any reference. *Executive Board* and *the Board* may also be used on any reference when it is clear there are no other boards being referred to.
 
+#### expletives
+Generally avoid unless in quotes or otherwise absolutely neccessary.
+
 #### EMPAC
 The full name of this building is the *Curtis R. Priem Experimental Media and Performing Arts Center*. Use *Experimental Media and Performing Arts Center* on first reference, EMPAC subsequently. EMPAC is acceptable on first reference if the full form would create an unwieldy sentence, as long as the long form is used on the very next reference. 
 
@@ -722,32 +725,24 @@ Also called a “serial comma,” this is the comma immediately before the coord
 The *Panhellenic Council* is in charge of “overseeing primary recruitment, sponsoring community service opportunities, social events, and educational programs throughout the year” for all sororities and women’s fraternities at RPI. Use *Panhel* on subsequent references.
 
 #### paraphrasing
-
-#### parking
+See [quotations](#quotations).
 
 #### Patroon Room
 Union Room 2424. Use *Patroon Room* on all references.
 
 #### percentages
+Do not use the % symbol; spell out the word "percent," e.g., *Stocks jumped by 12 percent.*
 
-#### petition
-
+#### petitions
+See [this Union website](https://petitions.union.rpi.edu/).
 #### Phalanx Room
 Union Room 3502. Use *Phalanx Room* on all references.
 
-#### phone numbers
-
-#### photo
-
 #### Pipeline
-
-#### playlist
+The [website](https://poly.rpi.edu/) for *The Polytechnic*.
 
 #### plural
-
-#### police
-
-#### political parties
+When referencing two things with the same, normally capitalized title, lowercase the title, e.g., *15th and Hoosick streets*.
 
 #### Polytech Apartments
 Use *Polytech Apartments* on first reference, *Polytech* subsequently.
@@ -766,6 +761,7 @@ A possessive ending in s should not have an ’s, just an apostrophe.
 Also called a number sign or hash, this symbol (#) is derived from the once-common ℔. See [hashtag](#hashtag).
 
 #### president
+Not capitalized, unless in a title.
 
 #### president of the Union
 Use on first reference, *PU* subseqeuntly. The president of the Union has three roles: representative for the Rensselaer Union, chair of the Executive Board, and the highest elected representative of the students in the budgetary branch of student government. The PU appoints students to serve on the E-Board.
@@ -775,21 +771,20 @@ See also: [Executive Board](#executive-board).
 #### president’s cabinet
 This group is made up of the vice presidents, the provost, and selected deans.
 
-#### pride
-
 #### Proctor’s Theatre
 Note apostrophe and spelling. Use *Proctor’s Theatre* on first reference, *Proctor’s* subsequently.
 
 #### pronouns
-
-#### Prospect Park
+Use he or she when prefered by the referenced individual, "they" is an acceptable gender neutral pronoun and can be used to avoid awkward constructions like "he or she."
 
 #### Public Safety
 This is an acceptable abbreviation for the Department of Public Safety on all references. It is also an acceptable way to refer to the Public Safety Building on subsequent references, as long as there is no confusion between the department and the building. Use *Pub Safe* to refer to the department only in opinion pieces, if at all.
 
 #### Public Safety Building
+This building at the end of the [15th Street footbridge](#15th-street-footbridge) houses the Department of Public Safety.
 
 #### Puckman
+RPI's mascot, and SIS Man's biggest rival.
 
 #### punctuation
 Use the **oxford comma**.
@@ -802,6 +797,12 @@ If two punctuation marks are called for in the same location, use only the stron
 >Wrong: What the hell?!  
 >Right: What the hell?  
 >Right: What the hell!  
+
+Use commas in large numbers, e.g., *1,234,567,890*.
+
+Avoid contractions in news articles.
+
+See the *AP Stylebook* for more precise punctuation particulars. 
 
 # Q
 #### Q&A
@@ -818,6 +819,23 @@ Use double quotes (“) and (”) to enclose words and phrases. Use single quote
 See [titles of works](#titles-of-works) for more rules on quotes.
 
 #### quotations
+Use partial quotations when possible, since too many full quotation marks makes the article appear to have been written by the interviewee, rather than the interviewer. Also, partial quotations allow for a smoother article.
+
+Use quotations to get the source's reactions to the facts; hard facts can be paraphrased.
+
+Commas and periods go inside closing quotation marks; semicolons and colons go outside closing quotation marks, e.g., *"I hope to have a long a productive life under Mao's rule," the peasant said.* See [punctuation](#punctuation) for more information.
+
+If a question mark or exclamation point ends a quote, the symbol will go inside the closing quote, e.g., *"What should be done about the deteriorating building?" the villager asked. Chairman Mao proclaimed, "Aquire it for the people!"*
+
+When identifying the source of a quotation, specify the person's source of expertise if it has not been previously explained in the article, e.g., *I think the drop in peasant labor is only temporary," an advisor to Chairman Mao, Hu Bao, said. "I fully expect it to recover following our Great Purge."*
+
+When attributing quotations, use *said*. You can also use words like remarked, added, or explained. Do not use words like stated or ejaculated.
+
+An indirect quotation is a paraphrase of the speakers ideas and opinions rather than a verbatim report. Quotation marks are not used for indirect quotations, e.g., *According to Mao, the building's collapse was due to the workers' ineptitude, not the cramped and hazardous living conditions.*
+
+When a quotation is continued into another paragraph, do not end the first paragraph with a quotation mark, but place a quotation mark at the beginning of the second paragraph.
+
+Quotation marks are sometimes used around [titles of works](#titles-of-works).
 
 # R
 #### racism
