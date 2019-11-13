@@ -409,7 +409,7 @@ This is the governing body of the [Rensselaer Union](#rensselaer-union). Its mem
 *E-Board* or *Union Executive Board* may be used on any reference. *Executive Board* and *the Board* may also be used on any reference when it is clear there are no other boards being referred to.
 
 #### Executive Board Representative
-This is a person who represents clubs in the Executive Board. If it references a specific person then representative is capitalized. For example; "Executive Board Representative John Doe". If it references someone generally then representative is lower case. For example; "an Executive Board Representative's job is to..."  
+This is a person who represents clubs in the Executive Board. If it references a specific person then representative is capitalized. For example; "Executive Board Representative John Doe". If it references someone generally then representative is lower case. For example; "an Executive Board representative's job is to..."  
 
 #### expletives
 Generally avoid unless in quotes or otherwise absolutely neccessary.
