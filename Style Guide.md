@@ -1,5 +1,5 @@
 # *The Polytechnic* Style Guide
-Updated 11/06/2019 at 4:04 pm. That's "mm/dd/yyyy," by the way.
+Updated 11/14/2019 at 1:46 pm. That's "mm/dd/yyyy," by the way.
 
 # Contents
 
@@ -498,13 +498,16 @@ Includes the Freshman Five, and Warren, Nugent, Davison, and Sharp Halls.
 
 # G
 #### gender
+Use a person's preferred pronouns. "They" is an acceptable gender-neutral pronoun.
 
 #### general body meeting
+Not capitalized, so do not shorten to *GBM* on second reference; use *meeting*.
 
 #### GitHub
 You are here.
 
 #### Google Docs
+*Google Docs* is the application, *Google docs* are documents made in said application. You can also make *slides* and *sheets*.
 
 #### graduate students
 See [class years](#class-years).
@@ -516,17 +519,20 @@ The Grand Marshal is the highest elected official, equivalent to a student body 
 Use *Grand Marshal Week* on first reference, *GM Week* on subsequent references. It’s designed to spark interest in student government elections. It usually starts on a Friday early in April and ends the following Friday night. Primary and final voting take place during the week. GM Week is organized by the GM Week Committee, a sub-committee of the [Rules and Elections Committee](#rules-and-elections-committee) of the [Student Senate](#student-senate). However, most of the events are sponsored by various campus clubs and organizations.
 
 #### Ground Zero
+A student organization that hosts mostly music shows, often at [2 Edgehill Terrace](#east-campus-class-community-center).
 
 #### GPA
+Capitalize. Something about quality points...
 
 #### gray
 Use gray on all references, never grey.
 
-#### Greeks
-APO
+#### Greek
+Capitalize.
 
 # H
 #### Hack RPI
+RPI's annual 24-hour hackathon, hosted by the eponymous student organization.
 
 #### hashtag
 When referring to a specific hashtag, use the pound sign (#) followed by the specific hashtag. Capitalization and spelling of hashtags should not be altered from their original appearance.
@@ -535,8 +541,10 @@ When referring to a specific hashtag, use the pound sign (#) followed by the spe
 > Right: #ThePoly  
 
 #### HASS
+Short for Humanities, Arts, and Social Sciences.
 
 #### headlines
+Capitlize only the first word and any proper nouns (club names included).
 
 #### Heffner Alumni House
 Use *Heffner Alumni House* on first reference, *Alumni House* subsequently.
@@ -545,13 +553,16 @@ Use *Heffner Alumni House* on first reference, *Alumni House* subsequently.
 "six feet three" and 6'3" (no spaces) are both acceptable. Do not say "six foot three" (not sure about when to use foot vs. feet tbh)
 
 #### Hockey Line
+A forgotten Rensselaer tradition.
 
 #### the horseshoe
+The horseshoe is the informal term for the semicircular loop of pavement in front of the Union, where shuttles arrive.
 
 #### Houston Field House
 See [athletic facilities](#athletic-facilities).
 
 #### hyperlink
+When linking to another article, website, or resource within a text, *The Poly* prefers links to be multi-word; often, whole sentences can be found linked in our articles.
 
 #### hyphen
 Hyphens are used in compound phrases that are treated as individual entities and used as adjectives but are not formally recognized as words in their own right. When the first word ends in -ly, a hyphen is not generally used, e.g., *Union-funded* vs. *newly elected*.
@@ -571,8 +582,6 @@ See also: [schools](#school-of).
 #### initials
 Use initials when a person prefers that they be used or when they provide better identification of the person, e.g., *George M. Low* and *G. Gordon Liddy*.
 
-#### Instagram
-
 #### Interfraternity Council
 *Interfraternity Council* on first reference, *IFC* on subsequent references.
 
@@ -580,6 +589,7 @@ Use initials when a person prefers that they be used or when they provide better
 Do not capitalize.
 
 #### internship
+Typically, an internship lasts for one term. Contrast with a [co-op](#co-op).
 
 #### italic type
 Use italics for the name of any publication, movie, journal, software program, video game, TV show, book, play, album, lecture series, or works of art. 
@@ -589,11 +599,11 @@ Use italics to indicate emphasis; do not use boldface or uppercase for this purp
 See also: [titles of works](#titles-of-works).
 
 # J
-#### Job Link
-
 #### Joint Board
+Joint Board hears appeals of Judicial Board decisions. Use *Joint Board* on all references.
 
 #### Judicial Board
+The Judicial Board is a seven-student body which adjucates cases of violation of the Grounds for Disciplinary Action. See *The Rensselaer Handbook* for more information on the judicial process.
 
 #### junior
 This is the term for a third-year undergraduate student. Use the term *juniors* in reference to a group of such students.
@@ -608,7 +618,7 @@ See also: [hashtag](#hashtag).
 Use *Ctrl*, *Alt*, *Shift*, *Cmd*, etc., noting capitalization. To indicate a combination of keys, use plus signs between key names, with letters capitalized: *Ctrl + Alt + Delete is a common way to open Task Manager in Windows.*
 
 #### kickers
-See Appendix?
+See the [list of kickers](https://github.com/thepoly/thepoly/blob/master/Kickers.md).
 
 # L
 #### ledes
