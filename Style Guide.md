@@ -415,11 +415,6 @@ Avoid references to these unless these are relevant to the focus of an article. 
 
 Capitalize ethnic groups when they are associated with a specific place, e.g. *Greeks*, *Turks*, *Chinese*, or *Native American*. Do not capitalize ethnic groups like *whites* or *blacks*.
 
-#### Executive Board
-This is the governing body of the [Rensselaer Union](#rensselaer-union). Its members include representatives from every class, as well as club, intercollegiate athletics, Greek, and independent representatives. It is run by the [President of the Union](#president-of-the-union). 
-
-*E-Board* or *Union Executive Board* may be used on any reference. *Executive Board* and *the Board* may also be used on any reference when it is clear there are no other boards being referred to.
-
 #### EMPAC
 The full name of this building is the *Curtis R. Priem Experimental Media and Performing Arts Center*. Use *Experimental Media and Performing Arts Center* on first reference, EMPAC subsequently. EMPAC is acceptable on first reference if the full form would create an unwieldy sentence, as long as the long form is used on the very next reference. 
 
@@ -435,6 +430,17 @@ Also known as esports or e-sports, *eSports* is how we refer to organized, multi
 
 #### etc.
 A latin expression meaning “and so forth,” use *etc.* (note punctuation) in all necessary instances. Do not use *&c.*, *&c*, or *etc* with no period.
+
+#### Executive Board
+This is the governing body of the [Rensselaer Union](#rensselaer-union). Its members include representatives from every class, as well as club, intercollegiate athletics, Greek, and independent representatives. It is run by the [President of the Union](#president-of-the-union). 
+
+*E-Board* or *Union Executive Board* may be used on any reference. *Executive Board* and *the Board* may also be used on any reference when it is clear there are no other boards being referred to.
+
+#### Executive Board Representative
+This is a person who represents clubs in the Executive Board. If it references a specific person then representative is capitalized. For example; "Executive Board Representative John Doe". If it references someone generally then representative is lower case. For example; "an Executive Board Representative's job is to..."
+
+#### expletives
+Generally avoid unless in quotes or otherwise absolutely neccessary.
 	
 # F
 #### faculty
@@ -992,6 +998,7 @@ The *Society of Hispanic Professional Engineers* is one half of the annual [NSBE
 There are two shuttle routes, the *East Campus* and *West Campus* routes which are served by the East and West campus shuttles.
 
 #### shuttle tracker
+[Check it out](https://poly.rpi.edu/shuttles/).
 
 #### SIS
 The *Rensselaer Student Information System* (also known as the *Self-Service Information System*; both are found on the website) can be accessed by current and former students to view their progress through [Degree Works](#degree-works), request transcripts, schedule classes, and more. *Student Information System* should be used on first reference in a news piece, *SIS* should be used subsequently. *SIS* can be used on any reference in an opinion or features piece.
@@ -1013,8 +1020,6 @@ Generally avoid. Use a forward slash (/) to create constructions like and/or, ei
 
 #### slug
 In media, a slug is a term for a short-form name given to an article for internal use. In web publishing, like on [Pipeline](#pipeline), a slug is the part of the URL which identifies a page. Find it under the “Promote” tab while making a draft.
-
-#### social media
 
 #### sophomore
 This is the term for an undergraduate student who is in their second year of earning a bachelor's degree. Use *sophomores* to describe a group of these students.
