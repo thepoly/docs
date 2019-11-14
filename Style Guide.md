@@ -1,5 +1,5 @@
 # *The Polytechnic* Style Guide
-Updated 11/14/2019 at 1:46 pm. That's "mm/dd/yyyy," by the way.
+Updated 11/14/2019 at 2:21 pm. That's "mm/dd/yyyy," by the way.
 
 # Contents
 
@@ -82,8 +82,6 @@ Use such abbreviations as B.S., M.S., Ph.D., etc. only when the need to identify
 
 Do not precede a name with a courtesy title for an academic degree and follow it with an abbreviation for the degree in the same reference; this is redundant. 
 
-#### accelerated programs
-
 #### accents
 See [diacritics](#diacritics).
 
@@ -113,6 +111,7 @@ The full name of this building is the *Nancy Deloye Fitzroy ’49 and Roland V. 
 Although “advisor” and “adviser” are both correct, use “advisor” for consistency, unless it’s a direct quote from written material.
 
 #### alma mater
+The school you graduated from, and, when capitalized, the song sung at formal ceremonies here at RPI.
 
 #### alphabet soup
 A term used in linguistics as a metaphor for an abundance of abbreviations or acronyms, this phenomenon can be seen across campus. See [CLASS](#class-initiative).
@@ -137,6 +136,7 @@ Use *the Arch* on all references, never *Summer Arch*.
 See also: [semesters](#semesters).
 
 #### Archer Center
+The *Archer Center for Student Leadership Development* is a student resource here at RPI. Prefer *Archer Center* on second reference over their acronym *ACSLD*.
 
 #### area codes
 See [phone numbers](#phone-numbers).
@@ -158,16 +158,17 @@ Avoid using this word, unless absolutely necessary, as in some sort of formal de
 Use *Blitman Commons* on first reference, *Blitman* on subsequent references.
 	
 #### Board of Trustees
+From their bylaws:
+>"The Board of Trustees constitutes the body corporate and paramount governing authority of the Institute, and shall have and shall responsibly exercise all of the powers prescribed by the Act of Incorporation and other applicable law. These powers relate primarily to the establishment of educational goals and policy, conferring of degrees, and the development and management of financial resources."
 
 #### boldface type
 Do not use boldface for individual words or lines within a paragraph. Boldface is used strictly as a layout element.
-	
-#### breakers
 
 #### BROCKHAMPTON
 Best boy band since One Direction.
 	
 #### Brykwyck
+A student dormitory complex near ECAV reserved for upperclassmen.
 
 #### building
 Never abbreviate (bldg.) unless in a direct quote. Capitalize the proper names of buildings, including the word building if it’s an integral part of the proper name, e.g., the *Troy Building*.
@@ -180,8 +181,10 @@ See [shuttle tracker](#shuttle-tracker).
 	
 # C
 #### Campus Card
+The Campus Card (also called the RPI ID) is the official ID for RPI community members. It must be on you at all times to be prepared to be presented to any campus official at their behest.
 
 #### Campus Unisex Hair Salon
+Take your money and support a local business in Downtown Troy, I'll leave it at that.
 
 #### Capital District
 Use *Capital District* on all references. This refers to the area around Albany and is more urban-focused than [Capital Region](#capital-region). Use your best judgment when deciding between Region and District.
@@ -193,6 +196,25 @@ Use *Capital District Transportation Authority* on first reference when talking 
 Use *Capital Region* on all references. This refers to the more general area around the capital, which is all of Albany, Rensselaer, Schenectady, and Saratoga counties. The phrase *Greater Capital Region* is also unofficially used to refer to Columbia, Greene, Washington, Warren, Fulton, Montgomery, and Schoharie counties.
 
 #### capitalization
+Capitalize the first word in a sentence.
+
+Capitalize the first word of a quote.
+
+Capitalize all proper nouns, and common nouns when used as part of a proper noun, e.g. *Congress Street* and *Hudson River*. However, lowercase the common noun element in all plural uses, *Congress and Ferry streets* or *the Hudson and Mohawk rivers*.
+
+Capitalize academic parties, administrative offices, programs, and centers only when using the official name, e.g. *Department of Chemical Engineering*, *Office of Admissions*, *George M. Low Center for Industrial Innovation*. Do not capitalize when not using the official name, e.g. *chemical engineering department*, *admissions office*, *the center*, etc. However, always capitalize proper nouns, e.g. *English department*.
+
+Capitalize all official course names, e.g. *Calculus II* vs. *calc*.
+
+Capitalize [titles of works](#titles-of-works) as they appear on the work.
+
+Capitalize specific, unique documents, like *The Rensselaer Handbook*.
+
+Capitalize formal titles when used immediately before a name. See also [titles of persons](#titles-of-persons).
+
+Do not capitalize seasons unless in reference to a specific semester, e.g. *Spring 1976 semester*, and do not capitalize class years, compass directions, or non-official sports team names, e.g. *the Rensselaer men's hockey team* vs. *the Rensselaer Engineers*.
+
+Capitalize acronyms.
 
 #### CAPP report
 Recently replaced by [Degree Works](#degree-works).
@@ -258,6 +280,7 @@ When referring to someone who graduated more than 90 years ago (before 1930 as o
 When referring to someone who graduated with multiple degrees from Rensselaer, choose the date of their earliest degree.
 
 #### Clubhouse Pub
+Located on the third floor of the Union, this is the only place on campus any undergraduates, regardless of age, are allowed to drink on campus.
 
 #### clubs
 See [Union organizations](#union-organizations).
@@ -278,15 +301,11 @@ Has a variety of uses, often used to introduce a quote. See [punctuation](#punct
 #### Colonie Apartments
 Located on Burdett Avenue, this complex has four buildings: *Colonie A*, *Colonie B*, *Colonie C*, and *Colonie D*. Use *Colonie Apartments* on first reference, *Colonie* subsequently, as long as it's clear you're not referencing the town of Colonie.
 
-#### commencement
-
-#### Concerto
-
 #### contractions
 Generally, avoid using contractions in news articles. Otherwise, respect the author’s voice insofar as their use of contractions, unless it sounds awkward.
 
 #### co-op
-Though "cooperative" and "cooperation" are preferred to their hyphenated forms, use *co-op* when refering to
+Though "cooperative" and "cooperation" are preferred to their hyphenated forms, use *co-op* when refering to the usually multi-term work assignment that some students start during their away semester.
 
 #### copy
 The best department of *The Polytechnic*, find the copy guide here [link]
@@ -296,6 +315,7 @@ Official course names are always capitalized, e.g., *Introduction to Differentia
 
 #### cutline
 See [captions](#captions).
+
 # D
 #### DCC
 Use *Darrin Communications Center* on first reference, *DCC* subsequently. *DCC* is acceptable on first reference if the full form would create an unwieldy sentence, as long as the long form is used on the very next reference.
@@ -343,8 +363,6 @@ See [class years](#class-years).
 
 #### documents
 Italicize the name of documents, like the *[Union Annual Report](#union-annual-report)*.
-
-#### Dominoes Project
 
 #### DotCIO
 Use *Division of the Chief Information Officer* on first reference, *DotCIO* on subsequent references.
