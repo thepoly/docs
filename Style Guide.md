@@ -286,6 +286,7 @@ Located on the third floor of the Union, this is the only place on campus any un
 See [Union organizations](#union-organizations).
 
 #### Club Management System
+Use *CMS* on subsequent references.
 
 #### College Media Association
 The College Media Association hosts the Spring National College Media Convention in New York City, which members of *The Poly* attend almost every year.
@@ -387,8 +388,10 @@ See [athletic facilities](#athletic-facilities).
 Abbreviation for the *Eastern Collegiate Athletic Conference*, which should be used on first reference. *ECAC* should be used on subsequent references.
 
 #### Editor’s note
+Used to correct an article after publication.
 
 #### Editorial Notebook
+All *Poly* staff are required to write notebooks, which are typically vignettes of college life with a moral.
 
 #### electronic cigarettes
 Use *e-cigarette* on all references, contrary to AP style.
@@ -437,7 +440,7 @@ This is the governing body of the [Rensselaer Union](#rensselaer-union). Its mem
 *E-Board* or *Union Executive Board* may be used on any reference. *Executive Board* and *the Board* may also be used on any reference when it is clear there are no other boards being referred to.
 
 #### Executive Board Representative
-This is a person who represents clubs in the Executive Board. If it references a specific person then representative is capitalized. For example; "Executive Board Representative John Doe". If it references someone generally then representative is lower case. For example; "an Executive Board Representative's job is to..."
+This is a person who represents clubs in the Executive Board. If it references a specific person then representative is capitalized, e.g., "Executive Board Representative John Doe". If it references someone generally then representative is lowercase, e.g., "an Executive Board representative's job is to..."
 
 #### expletives
 Generally avoid unless in quotes or otherwise absolutely neccessary.
