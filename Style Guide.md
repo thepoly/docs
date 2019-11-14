@@ -296,7 +296,6 @@ Official course names are always capitalized, e.g., *Introduction to Differentia
 
 #### cutline
 See [captions](#captions).
-
 # D
 #### DCC
 Use *Darrin Communications Center* on first reference, *DCC* subsequently. *DCC* is acceptable on first reference if the full form would create an unwieldy sentence, as long as the long form is used on the very next reference.
@@ -304,13 +303,8 @@ Use *Darrin Communications Center* on first reference, *DCC* subsequently. *DCC*
 #### dashes
 see [en dash](#en-dash), [em dash](#em-dash), [figure dash](#figure-dash), and [hyphen](#hyphen).
 
-#### data
-
-#### date references
-
-#### dateline
-
 #### dean
+See [titles of persons](#titles-of-persons).
 
 #### dean’s list
 Do not capitalize.
@@ -319,23 +313,25 @@ Do not capitalize.
 Can be referenced in a few ways. For news pieces and other formal writing, spell out the decade, e.g., *the nineties*. In other content, *the ’90s* would be acceptable, as would *the 1990s*.
 
 #### department names
+Capitalize all RPI departments. Departments at other schools are capitalized if they are specific to that school.
 
 #### Degree Works
 Used to track graduation progress via [SIS](#sis).
 
 #### derby
+A weekly piece written by the President of the Union, published under our Opinion section.
 
 #### diacritics
 Use diacritics whenever necessary, like in *résumé*, *Ampère*, *Brontë*, *açaí*, *façade*, *entrée*, *crème brûlée*, *kālua*, *doppelgänger*, and *jalapeño*.
 
-#### digital storage
-
 #### dining halls
+RPI has four dining halls, Russell Sage Dining Hall, Commons Dining Hall, BARH Dining Hall, and Blitman Commons.
 
 #### directions
 Capitalize north, south, etc., when referencing a specific region or the direction is a part of a proper name, e.g., *East Campus Athletic Village*, *West Hall*, *the Northeast*. Do not capitalize when using as a direction, e.g., *take five steps to the north*.
 
 #### Director of the Union
+A contentious administrative staff position in the Union now held by Charlie Potts.
 
 #### discrimination
 Prefer *anti-gay* and *anti-trans* to adjectives like *homophobic* and *transphobic*. 
@@ -388,8 +384,6 @@ Reference email addresses as follows: poly@rpi.edu. No underline should be used,
 #### em dash
 Em dashes are used to separate a parenthetical comment or clarification, similar to parentheses. They are placed before and/or after the comment or clarification of interest, generally a comment of clarification stronger than parentheses would warrant.
 
-#### emoji
-
 #### en dash
 En dashes are used in place of “to” or “through” to indicate a range of numerical times or other ranges, 5:30–6:30 pm, A–Z, the New York–London flight.
 
@@ -408,20 +402,12 @@ This is the governing body of the [Rensselaer Union](#rensselaer-union). Its mem
 
 *E-Board* or *Union Executive Board* may be used on any reference. *Executive Board* and *the Board* may also be used on any reference when it is clear there are no other boards being referred to.
 
-#### Executive Board Representative
-This is a person who represents clubs in the Executive Board. If it references a specific person then representative is capitalized. For example; "Executive Board Representative John Doe". If it references someone generally then representative is lower case. For example; "an Executive Board representative's job is to..."  
-
-#### expletives
-Generally avoid unless in quotes or otherwise absolutely neccessary.
-
 #### EMPAC
 The full name of this building is the *Curtis R. Priem Experimental Media and Performing Arts Center*. Use *Experimental Media and Performing Arts Center* on first reference, EMPAC subsequently. EMPAC is acceptable on first reference if the full form would create an unwieldy sentence, as long as the long form is used on the very next reference. 
 
 Use *EMPAC* on first reference only when referring to the body/organization, not the building.
 
 Rooms in EMPAC are the *EMPAC Concert Hall*, the *EMPAC Theater*, *Studio Beta*, *Studio 1*, and *Studio 2*. Rooms do not follow the first reference rule regarding spelling out EMPAC.
-
-#### EMPAC+
 
 #### EMPAC Hill
 Use *EMPAC Hill* on all references to refer to the hill next to EMPAC.
@@ -433,26 +419,29 @@ Also known as esports or e-sports, *eSports* is how we refer to organized, multi
 A latin expression meaning “and so forth,” use *etc.* (note punctuation) in all necessary instances. Do not use *&c.*, *&c*, or *etc* with no period.
 	
 # F
-#### Facebook
-
 #### faculty
+The members of the academic staff, i.e. professors, lecturers, etc.
 
 #### Faculty Senate
-
-#### features
+Reconstituted in March 2012.
 
 #### figure dash
+Used in sports scores and vote tallying. Similar to the em dash, but different. Such is life.
 
 #### file photos
+In a file photo caption, work in a phrase to the effect of "in this file photo..."
 
 #### finals
+Finals week happens the week after the end of classes. It is not capitalized.
 
-#### first generation
+#### first-generation
+Hyphenate.
 
 #### first-year, etc.
-When using an ordinal (first, second, third, etc.) followed by “year,” always hyphenate.
+When using an ordinal (first, second, third, etc.) and "year," typically hyphenate.
 
-#### first year experience
+#### First Year Experience
+A lesson in the complexities of hypenation. *The Office of First Year Experience* is NOT hyphenated, and neither is their acronym, *FYE*. Sorry.
 
 #### Fiscal Year
 Capitalized in reference to a specific year, e.g. *Fiscal Year 2019*. This can be abbreviated as *FY 19*, but a nonspecific reference is not capitalized: *fiscal year*.
@@ -661,7 +650,7 @@ Separate lines by a " / " construction, e.g., *"Keep a gold chain on my neck / F
 Currently in Commons Dining Hall, the RPI mailroom will be moved to the bookstore.
 
 #### majors
-Do not capitalize the names of majors, unless it is a title specific to an RPI program, e.g., *Science, Technology, and Society* vs. *computer science*, *civil engineering*, or *geology*.
+Do not capitalize the names of majors, unless it is a title specific to an RPI program, e.g., *Science, Technology, and Society* vs. *computer science*, *civil engineering*, or *geology*. A list of undergraduate and graduate major codes can be found [here](http://www.rpi.edu/dept/srfs/degreeAppWithMajorCodes.pdf).
 
 #### Markdown
 A nice way to format and write plain text documents, like this style guide.
