@@ -611,16 +611,25 @@ Use *Ctrl*, *Alt*, *Shift*, *Cmd*, etc., noting capitalization. To indicate a co
 See Appendix?
 
 # L
-#### Latinx
-
 #### ledes
+The first thing a reader reads. Make it count.
 
 #### Letter to the Editor
+Letters to the Editor should always end in the following construction:
+> [Firstname Lastname]  
+> [4 letter major code, all caps]
+
+If an author has multiple degrees from Rensselaer, list them after the first degree in their signature. Their author job should only read the year of their first degree. 
+
+Examples:
+> Harrison Todd    
+> GEOL ’22  
+
+> Jessica Reichard  
+> MECL and STSO ’01, M.S. MGMT ’07
 
 #### LGBTQ
-Though there are many sexual orientations, The Poly uses *LGBTQ* to refer to the entire spectrum.
-
-#### Liberty League
+Though there are many sexual orientations, The Poly uses *LGBTQ* to refer to the entire spectrum. If it is referred to by another organization (i.e. the Senate or E-Board) as LGBTQIA or LGBTQ+ in their policies or procedures, use that term in describing their policies and procedures.
 
 #### like
 *Like* is preferred over *such as*.
@@ -635,9 +644,11 @@ Except in official contexts, do not capitalize *village*, *town*, or *city*.
 > Right: The City of Troy has cracked down on illegal drug use.  
 
 #### lyrics
+Separate lines by a " / " construction, e.g., *"Keep a gold chain on my neck / Fly as a jet, boy, better treat me with respect."* Note capitalization and punctuation.
 
 # M
 #### Mail Services
+Currently in Commons Dining Hall, the RPI mailroom will be moved to the bookstore.
 
 #### majors
 Do not capitalize the names of majors, unless it is a title specific to an RPI program, e.g., *Science, Technology, and Society* vs. *computer science*, *civil engineering*, or *geology*.
@@ -647,10 +658,6 @@ A nice way to format and write plain text documents, like this style guide.
 
 #### McNeil Room
 The McNeil Room is the official name for the large room in the center of the second floor of the [Rensselaer Union](#rensselaer-union). Use *McNeil Room* on all references.
-
-#### meal plan
-
-#### minors
 
 #### money
 Use the dollar sign ($) rather than the word dollar, but use the word cents rather than the cent sign (¢). Always use figures for monetary references. Insignificant digits should be omitted.
@@ -681,13 +688,14 @@ Aim for clarity, and, when in doubt, Google for correct use (Wikipedia is helpfu
 Capitalize, never abbreviate.
 
 #### MLC
+The *Multicultural Leadership Council* is part of the Executive Board. They host events like I-Fest and oversee the X and Lavender lounges.
 
-#### multicultural lounge
+#### Multicultural Lounge
+Now called the [X Lounge](#x-lounge).
 
 # N
 #### names
-
-#### news
+See [titles of persons](#titles-of-persons).
 
 #### NRB
 Use *Navigating Rensselaer & Beyond* on first reference, *NRB* subsequently. NRB is “the official continuation of the orientation program...designed to help students get to know one another,” and although not meant for recruiting, many of *The Poly*’s most dedicated staff have come from our yearly NRB event, including the author of this style guide.
@@ -718,7 +726,6 @@ Exceptions when numbers are always prefered are dates, times, ages, percentages,
 See also: [percentages](#percentages), [time and date references](#time-and-date-references), and [money](#money).
 
 # O
-#### opinion
 
 #### oxford comma
 Also called a “serial comma,” this is the comma immediately before the coordinating conjunction (often “and” or “or”) in a series of three or more terms. Use it. 
@@ -1219,7 +1226,11 @@ Never use this subdomain in a URL unless it’s necessary to get to the website,
 See also: [URL](#url).
 
 # X
+#### X Lounge
+Formerly the Multicultural Lounge, this space will be in the current Patroon Room.
+
 # Y
+
 # Z
 #### zip code
 Believe it or not, *ZIP Code* is a trademark owned by the USPS, use *zip code* instead.
