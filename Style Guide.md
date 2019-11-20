@@ -452,6 +452,9 @@ The members of the academic staff, i.e. professors, lecturers, etc.
 #### Faculty Senate
 Reconstituted in March 2012.
 
+#### farmers market
+The Troy Waterfront Farmers Market is held every Saturday in Downtown Troy. The words *farmers market* are neither capitalized nor possessive on non-specific references.
+
 #### figure dash
 Used in sports scores and vote tallying. Similar to the em dash, but different. Such is life.
 
