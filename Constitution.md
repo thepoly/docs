@@ -102,7 +102,7 @@ The purpose of _The Polytechnic_ shall be to keep the members of the Rensselaer 
  
 1. Editorial Board Elections 
 
-    1. Semesterly elections for the editorial board shall be held the business meeting before the last day of classes. The fall semester election shall be known as the Fall election. The spring semester election shall be known as the Spring election.
+    1. Semesterly elections for the editorial board shall be held the business meeting after the last day of classes. The fall semester election shall be known as the Fall election. The spring semester election shall be known as the Spring election.
 
     1. Notification of the elections will be made by an announcement appearing on the website of _The Polytechnic_ two weeks immediately prior to the election.
 
