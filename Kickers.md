@@ -72,6 +72,8 @@ Kickers are displayed at the top of every article, above the headline. Their pur
 	* 
 * TOP HAT
 * DERBY
+* BEHIND THE URL
+	* This is used for updates/administrative information relative to _The Poly_
 * ADMINISTRATION
 	* Admin ledditors and columns, e.g. Apgar, Trzepacz
 	
