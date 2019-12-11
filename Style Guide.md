@@ -611,7 +611,7 @@ Do not capitalize.
 Typically, an internship lasts for one term. Contrast with a [co-op](#co-op).
 
 #### italic type
-Use italics for the name of any publication, movie, journal, software program, video game, TV show, book, play, album, lecture series, or works of art. 
+Use italics for the name of any publication, movie, journal, news programs, software program, video game, TV show, book, play, album, lecture series, or works of art. 
 
 Use italics to indicate emphasis; do not use boldface or uppercase for this purpose. If the surrounding text is already in italics, use normal type for what would otherwise be italicized text. 
 
