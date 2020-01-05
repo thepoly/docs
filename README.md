@@ -4,7 +4,7 @@ This repository is meant to serve as a wiki for all things _Poly_-related, prima
 - [x] Style guide
 - [x] Constitution
 - [x] Bylaws 
-- [ ] Code of Ethics
+- [x] Code of Ethics
 - [ ] Code of Operations
 - [ ] Motions
 - [x] Logos
