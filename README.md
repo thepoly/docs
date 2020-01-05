@@ -5,7 +5,6 @@ This repository is meant to serve as a wiki for all things _Poly_-related, prima
 - [x] Constitution
 - [x] Bylaws 
 - [x] Code of Ethics
-- [ ] Code of Operations
 - [ ] Motions
 - [x] Logos
 - [x] Kicker list
