@@ -62,7 +62,7 @@ The purpose of _The Polytechnic_ shall be to keep the members of the Rensselaer 
 
 1. Endorsement Meetings
 
-    1.	The editorial board of _The Polytechnic_ shall exercise the right to consider the qualifications for campus officers, to decide on the candidate they feel to be best qualified for the position, and to publish that decision in the form of an endorsement. Only editors, associate editors, and directors may participate in the endorsement meetings.
+    1.	The editorial board of _The Polytechnic_ shall exercise the right to consider the qualifications for campus officers, to decide on the candidate they feel to be best qualified for the position, and to publish that decision in the form of an endorsement. Editors, associate editors, and directors may participate in the endorsement meetings with any other person being allowed in with a two-third vote of quorum.
 
         1.	The editorial board shall provide the option of an interview to each candidate as recognized by the Student Senate running for an office up for endorsement and present to them prior to the interview a written questionnaire. The editorial board must consider each of those candidates who are interviewed for endorsement.
 
