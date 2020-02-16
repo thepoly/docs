@@ -116,7 +116,7 @@ The purpose of _The Polytechnic_ shall be to keep the members of the Rensselaer 
         1.  The meeting which candidates are interviewed shall not be confidential. 
         
         1. Candidate Endorsement Voting Procedure
-            1. Upon completion of the interviews of all candidates, the editorial board will discuss the merits of each candidate and then, for each position considered, vote by secret ballot for the candidate they wish to endorse or for no candidate. Discussion will be closed to only those outlined in Section (IV) subsection (3) clause (iii).
+            1. Upon completion of the interviews of all candidates, those outlined in Section (IV) subsection (3) clause (iii) will meet in a closed meeting and discuss the merits of each candidate and then, for each position considered, the editorial board will vote by secret ballot for the candidate they wish to endorse or for no candidate.
             
             1.	_The Polytechnic_ will endorse a candidate based upon a five-sixths vote of quorum.
             
