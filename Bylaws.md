@@ -104,3 +104,42 @@ The purpose of _The Polytechnic_ shall be to keep the members of the Rensselaer 
     1. In the event of a conflict of interest or the appearance of a conflict of interest, an individual must recuse themselves, thereby not counting towards voting quorum. Abstentions, which count towards quorum, may be used if an individual does not feel that they have enough information. An abstention has the same effect as a no vote.
     
     1. Absentee ballots and voting by proxy are not allowed for editorial content meetings.
+1. Endorsement Meetings
+    
+    1. Endorsement meetings shall be held for the purpose of deciding whether to endorse a candidate for a campus officer position.
+        1.	The editorial board may consider endorsing candidates for any number of positions, but in order to consider any candidates for endorsement of any position, the editorial board must at least consider the endorsement of a candidate for Grand Marshal and for President of the Union.
+        
+        1.	The editorial board shall provide the option of an interview to each candidate as recognized by the Student Senate running for an office up for endorsement and present to them prior to the interview a written questionnaire. The editorial board must consider each of those candidates who are interviewed for endorsement.
+        
+        1.	Meetings during which candidates are interviewed shall be closed to all except those outlined in Section (IV) subsection (3) clause (iii) and the interviewee. Quorum shall consist of two-thirds of the editorial board membership. 
+        
+        1.  The meeting which candidates are interviewed shall not be confidential. 
+        
+        1. Candidate Endorsement Voting Procedure
+            1. Upon completion of the interviews of all candidates, the editorial board will discuss the merits of each candidate and then, for each position considered, vote by secret ballot for the candidate they wish to endorse or for no candidate. Discussion will be closed to only those outlined in Section (IV) subsection (3) clause (iii).
+            
+            1.	_The Polytechnic_ will endorse a candidate based upon a five-sixths vote of quorum.
+            
+            1.	If not one and only one candidate receives an endorsement in the first ballot then the editorial board will again have discussion and vote by secret ballot. If for a second time not one and only one candidate receive an endorsement, then the editorial board will have one last period of discussion and vote by secret ballot a final time. If not one and only one candidate is endorsed at this point, then _The Polytechnic_ shall not endorse a candidate for that position. 
+            
+            1.	Abstentions may only be used for conflicts of interest and count as a vote for a null candidate. Votes for a null candidate are tallied as are those for a real candidate.
+
+            1.	Neither absentee ballots nor voting by proxy are allowed for candidate endorsement meetings.
+
+    1. Endorsement meetings shall be held for the purpose of deciding whether to support or oppose referendas voted on by the student body during Rensselaer Union-sponsored election.
+        1. Meetings during which referenda are considered shall be closed to all except those outlined in clause(iii). Quorum shall consist of two-thirds of the editorial board membership.
+        
+        1. The editor in chief shall call these meetings and decide their location and time.
+        
+        1. Referenda Endorsement Voting Procedure
+            1. For each referendum considered, the meeting participants will discuss the merits of the referendum and then the editorial board will vote by secret ballot whether to support, oppose, or take no stance on the referendum.
+            
+            1. 	_The Polytechnic_ will only support or oppose a referendum based upon a five-sixths vote of quorum in either the affirmative or the negative.
+
+            1. If no stance is endorsed in the first ballot, then the editorial board will again have discussion and vote by secret ballot. If for a second time no stance is endorsed, then the editorial board will have one last period of discussion and vote by secret ballot a final time. If no stance is endorsed at this point, then _The Polytechnic_ shall not support or oppose to the referendum in question.
+
+            1. Abstentions may only be used for conflicts of interest.
+
+            1. Neither absentee ballots nor voting by proxy are allowed for referenda endorsement meetings.
+            
+    1. All editoral board members may participate in endorsement meetings. Other memebers of _The Poly_ may be invited to participate by the disgrssion of the editor in chief. The editorial board may reject the invite by a 2/3 vote.
