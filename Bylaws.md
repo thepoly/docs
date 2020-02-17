@@ -109,11 +109,9 @@ The purpose of _The Polytechnic_ shall be to keep the members of the Rensselaer 
     1. Endorsement meetings shall be held for the purpose of deciding whether to endorse a candidate for a campus officer position.
         1.	The editorial board may consider endorsing candidates for any number of positions, but in order to consider any candidates for endorsement of any position, the editorial board must at least consider the endorsement of a candidate for Grand Marshal and for President of the Union.
         
-        1.	The editorial board shall provide the option of an interview to each candidate as recognized by the Student Senate running for an office up for endorsement and present to them prior to the interview a written questionnaire. The editorial board must consider each of those candidates who are interviewed for endorsement.
+        1.	The editorial board shall provide the option of an interview to each candidate as recognized by the Student Senate running for an office up for endorsement and present to them prior to the interview a written questionnaire. The editorial board must consider each of those candidates who are interviewed for endorsement. The editorial board may publish transcripts or recordings of these interviews as part of its coverage of elections.
         
-        1.	Meetings during which candidates are interviewed shall be closed to all except those outlined in Section (IV) subsection (3) clause (iii) and the interviewee. Quorum shall consist of two-thirds of the editorial board membership. 
-        
-        1.  The meeting which candidates are interviewed shall not be confidential. 
+        1.	Meetings during which candidates are interviewed shall be closed to all except those outlined in Section (IV) subsection (3) clause (iii) and the interviewee. Quorum shall consist of two-thirds of the editorial board membership.
         
         1. Candidate Endorsement Voting Procedure
             1. Upon completion of the interviews of all candidates, those outlined in Section (IV) subsection (3) clause (iii) will meet in a closed meeting and discuss the merits of each candidate and then, for each position considered, the editorial board will vote by secret ballot for the candidate they wish to endorse or for no candidate.
@@ -142,4 +140,4 @@ The purpose of _The Polytechnic_ shall be to keep the members of the Rensselaer 
 
             1. Neither absentee ballots nor voting by proxy are allowed for referenda endorsement meetings.
             
-    1. All editoral board members may participate in endorsement meetings. Other memebers of _The Poly_ may be invited to participate by the disgrssion of the editor in chief. The editorial board may reject the invite by a 2/3 vote.
+    1. All editoral board members may participate in endorsement meetings. Other memebers of _The Poly_ may be invited to participate by the judgement of the editor in chief. The invitations must be announced to the editorial board two business meetings before the first endorsement meeting.  
