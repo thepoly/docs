@@ -140,4 +140,4 @@ The purpose of _The Polytechnic_ shall be to keep the members of the Rensselaer 
 
             1. Neither absentee ballots nor voting by proxy are allowed for referenda endorsement meetings.
             
-    1. All editoral board members may participate in endorsement meetings. Other memebers of _The Poly_ may be invited to participate by the judgement of the editor in chief. The invitations must be announced to the editorial board two business meetings before the first endorsement meeting.  
+    1. All editoral board members may participate in endorsement meetings. Other members of _The Poly_ may be invited to participate by the editor in chief. The invitations must be announced to the editorial board two business meetings before the first endorsement meeting.  
