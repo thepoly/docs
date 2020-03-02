@@ -1001,7 +1001,7 @@ Located in Union Room 3606, this is where many student and community artworks ar
 The *Society of Hispanic Professional Engineers* is one half of the annual [NSBE/SHPE Career Fair](#career-fair). Use *SHPE* on subsequent references.
 
 #### shuttles
-There are two shuttle routes, the *East Campus* and *West Campus* routes which are served by the East and West campus shuttles.
+On weekdays, there are three shuttle routes, the *North*, *South*, and *West* routes which are served by the North, South, and West campus shuttles. On weekends, there are two shuttle routes, the *East* and *West* routes which are served by the East and West campus shuttles.
 
 #### shuttle tracker
 [Check it out](https://poly.rpi.edu/shuttles/).
