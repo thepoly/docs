@@ -1183,6 +1183,10 @@ See ***Union Annual Report***.
 #### URL
 Omit the subdomain *www.* from web addresses. Do not use *http://* or trailing slashes unless neccessary to access the site. 
 
+#### Union activity fee
+Specified each year in the *Union Annual Report*. Only capitalize Union and use *Union activity fee* on first reference. Subsequent references may use *activity fee*.
+
+
 #### Union Administration Office
 Use *Union Admin Office* on all references.
 
