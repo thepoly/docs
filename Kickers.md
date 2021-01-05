@@ -36,6 +36,7 @@ Kickers are displayed at the top of every article, above the headline. Their pur
 * JUDICIAL BOARD DECISION
 * ELECTIONS
 * THE ARCH
+* COVID-19
 
 ## Features
 * Events
