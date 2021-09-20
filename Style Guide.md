@@ -78,7 +78,7 @@ If mention of degrees is necessary to establish someone’s credentials, the pre
 
 Use an apostrophe in bachelor’s and master’s degrees.
 
-Use such abbreviations as B.S., M.S., Ph.D., etc. only when the need to identify many individuals by degree on first reference would make the preferred form unwieldy. Use these abbreviations only after a full name, never after just a last name.
+Use such abbreviations as BS, MS, PhD, etc. only when the need to identify many individuals by degree on first reference would make the preferred form unwieldy. Use these abbreviations only after a full name, never after just a last name.
 
 Do not precede a name with a courtesy title for an academic degree and follow it with an abbreviation for the degree in the same reference; this is redundant. 
 
@@ -198,7 +198,7 @@ Use *Capital Region* on all references. This refers to the more general area aro
 #### capitalization
 Capitalize the first word in a sentence.
 
-Capitalize the first word of a quote.
+Capitalize the first word of a quote when the quote begins a sentence or cites it in its entirety.
 
 Capitalize all proper nouns, and common nouns when used as part of a proper noun, e.g. *Congress Street* and *Hudson River*. However, lowercase the common noun element in all plural uses, *Congress and Ferry streets* or *the Hudson and Mohawk rivers*.
 
@@ -208,11 +208,11 @@ Capitalize all official course names, e.g. *Calculus II* vs. *calc*.
 
 Capitalize [titles of works](#titles-of-works) as they appear on the work.
 
-Capitalize specific, unique documents, like *The Rensselaer Handbook*.
+Capitalize specific, unique documents, like *Rensselaer Handbook*.
 
 Capitalize formal titles when used immediately before a name. See also [titles of persons](#titles-of-persons).
 
-Do not capitalize seasons unless in reference to a specific semester, e.g. *Spring 1976 semester*, and do not capitalize class years, compass directions, or non-official sports team names, e.g. *the Rensselaer men's hockey team* vs. *the Rensselaer Engineers*.
+Do not capitalize seasons unless in reference to a specific semester, e.g. *Spring 1976 semester*, and do not capitalize class years, compass directions when spelled out, or non-official sports team names, e.g. *the Rensselaer men's hockey team* vs. *the Rensselaer Engineers*.
 
 Capitalize acronyms.
 
@@ -223,7 +223,7 @@ Recently replaced by [Degree Works](#degree-works).
 When writing a caption, create a full sentence. Write in all caps up to and including the first verb of the sentence; write in lowercase after the verb. Include punctuation, e.g., *EVERYONE KNOWS about that one Quad bench.*
 
 #### career fair
-The *NSBE/SHPE Career Fair* and the *CCPD Spring Career Fair* are annual events on the RPI campus. Refer to both events as above on the first reference. Use *career fair* (note capitalization) on subsequent references if there is no doubt as to which career fair you are referring to. Do not spell out [NSBE](#nsbe), [SHPE](#shpe), or [CCPD](#center-for-career-and-professional-development) when used in the titles of the fairs, but spell them out on the next independent reference of each. 
+The *NSBE/SHPE Career Fair* and the *CCPD Spring Career Fair* are annual events on the RPI campus. Refer to both events as above on the first reference. Use *career fair* (note capitalization) on subsequent references if there is no doubt as to which career fair you are referring to. Do not spell out [NSBE](#nsbe), [SHPE](#shpe), or [CCPD](#center-for-career-and-professional-development) when used in the titles of the fairs. Spell out the organization's names on first reference as an entity. 
 
 #### casualties
 Refers to both deaths and injuries.
@@ -249,13 +249,13 @@ Use *Chapel and Cultural Center* on first reference. Located on Burdett Avenue, 
 #### characters
 On first reference of a character in a TV or movie review, if you want to let the audience know who a caracter is played or voiced by, list the character’s name and the voice actor in parentheses immediately after. 
 
-*In the episode “Magnetic Lofty,” Lofty (Sonya Leite) removes train tracks using a magnet.*
+*In the episode “Magnetic Lofty,” Lofty (Sonya Leite) removes train tracks using a magnet.* Note, when specifying a character is playing themselves, do not use the parenthetical.
 
 #### chopsticks
 The only acceptable utensil with which to eat [Flamin’ Hot Cheetos](#flamin-hot-cheetos).
 
 #### CIO
-Chief Information Officer. Use *CIO* on all references. See [DotCIO](#dotcio).
+Chief Information Officer. Spell out *CIO* on first reference. Use *CIO* on all subsequent references. See [DotCIO](#dotcio).
 
 #### claim
 Avoid using this verb, especially in news stories. To claim implies doubt. Never say “so and so claimed…”
@@ -271,11 +271,11 @@ When referring to an entire class, use "Class of" followed by the four-digit yea
 
 When referring to someone who graduated from RPI, indicate the year of their graduation by using a single closing quote and no commas, e.g. *Harry Styles ’60*.
 
-When referring to someone who is a current undergraduate student at RPI, use their anticipated graduation date. A May 2020 graduate is referred to exactly the same as a December 2020 graduate; use *’20* for both. Do not preface their name with their class name (freshman, sophomore, junior, or senior). For example: *Brookelyn Parslow ’20*.
+When referring to someone who is a current undergraduate student at RPI, use their anticipated graduation date. A May 2020 graduate is referred to exactly the same as a December 2020 graduate; use *’20* for both. Do not preface their name with their class name (first-year, sophomore, junior, or senior). For example: *Brookelyn Parslow ’20*.
 
 When referring to someone who is a current graduate or doctorate student at RPI, refer to them as a graduate or PhD student, respectively. If they graduated from RPI with some degree previously, indicate that as outlined above, e.g., *graduate student John F. Kennedy ’63*, or *PhD student Rosa Parks*. Note the lack of punctuation for “PhD”.
 
-When referring to someone who graduated more than 90 years ago (before 1930 as of 2020), indicate the class year by following the person’s name with “Class of XXXX” preceded and followed by commas, e.g. *Allen B. DuMont, Class of 1924,* is considered the father of modern TV.
+When referring to someone who graduated more than 90 years ago (before 1931 as of 2021), indicate the class year by following the person’s name with “Class of XXXX” preceded and followed by commas, e.g. *Allen B. DuMont, Class of 1924,* is considered the father of modern TV.
 
 When referring to someone who graduated with multiple degrees from Rensselaer, choose the date of their earliest degree.
 
@@ -346,7 +346,7 @@ A weekly piece written by the President of the Union, published under our Opinio
 Use diacritics whenever necessary, like in *résumé*, *Ampère*, *Brontë*, *açaí*, *façade*, *entrée*, *crème brûlée*, *kālua*, *doppelgänger*, and *jalapeño*.
 
 #### dining halls
-RPI has four dining halls, Russell Sage Dining Hall, Commons Dining Hall, BARH Dining Hall, and Blitman Commons.
+RPI has four dining halls, Russell Sage Dining Hall, Commons Dining Hall, BARH Dining Hall, and Blitman Commons Dining Hall.
 
 #### directions
 Capitalize north, south, etc., when referencing a specific region or the direction is a part of a proper name, e.g., *East Campus Athletic Village*, *West Hall*, *the Northeast*. Do not capitalize when using as a direction, e.g., *take five steps to the north*.
@@ -355,7 +355,7 @@ Capitalize north, south, etc., when referencing a specific region or the directi
 A contentious administrative staff position in the Union now held by Charlie Potts.
 
 #### discrimination
-Prefer *anti-gay* and *anti-trans* to adjectives like *homophobic* and *transphobic*. 
+Use adjectives like *homophobic* and *transphobic*. 
 
 See also: [racist](#racist).
 
@@ -416,7 +416,7 @@ Use *Environmental and Site Services* on first reference, *E&SS* subsequently. *
 #### ethnic groups
 Avoid references to these unless these are relevant to the focus of an article. When referring to a person’s or group’s ethnicity, never use constructions like *Asian American*, *African American*, *Chinese American*, or similar. The only exceptions to this is when authors of editorial pieces are referring to themselves alone, or when used in the name of a student group, e.g., *Chinese American Students Association*.
 
-Capitalize ethnic groups when they are associated with a specific place, e.g. *Greeks*, *Turks*, *Chinese*, or *Native American*. Do not capitalize ethnic groups like *whites* or *blacks*.
+Capitalize ethnic groups when they are associated with a specific place, e.g. *Greeks*, *Turks*, *Chinese*, or *Native American*. When referencing race, use "Black," "Black people," "white," or "white people". Avoid using "brown/Brown" or as a race, instead further specify ethnicity.
 
 #### EMPAC
 The full name of this building is the *Curtis R. Priem Experimental Media and Performing Arts Center*. Use *Experimental Media and Performing Arts Center* on first reference, EMPAC subsequently. EMPAC is acceptable on first reference if the full form would create an unwieldy sentence, as long as the long form is used on the very next reference. 
@@ -491,9 +491,9 @@ Use *Flex* on all references to refer to the allowance on a meal plan.
 Use *Folsom Library* on first reference, *library* may be used on subsequent references if it’s clear there are no other libraries being referred to, like the *Architecture Library*.
 
 #### foreign language
-Do not italicize familiar foreign words like
+Do not italicize familiar foreign words in common English like a capella and deja vu.
 
-Unfamiliar foreign words are italicized only the first time they appear in an article.
+Unfamiliar foreign words, such as those not used in common phrases, are italicized only the first time they appear in an article.
 
 Translations of foreign words go in brackets and quotes when directly following the foreign word.
 
@@ -504,7 +504,7 @@ Spell out if under one, with hyphens in between words, e.g., *two-thirds*, *nine
 See [Appendix F](#appendix-f-rpi-fraternities).
 
 #### freshman
-This is the proper term for a first-year undergraduate student at RPI. In describing a group of first-year students, use *freshmen*. Never use *freshperson*, *freshpeople*, *freshwoman*, *freshwomen*, or *frosh*.
+This is not the proper term for a first-year undergraduate student at RPI instead use first-year. In describing a group of first-year students, use *first-years*. Never use *freshperson*, *freshpeople*, *freshwoman*, *freshwomen*, *freshman*, or *frosh*. Use freshman ONLY when in a quote.
 
 #### the Freshman Circle
 Includes the Freshman Five (except for Nason Hall), Commons Dining Hall, and Barton Hall.
@@ -569,7 +569,7 @@ Capitlize only the first word and any proper nouns (club names included).
 Use *Heffner Alumni House* on first reference, *Alumni House* subsequently.
 
 #### height
-"six feet three" and 6'3" (no spaces) are both acceptable. Do not say "six foot three" (not sure about when to use foot vs. feet tbh)
+"six feet three," "six-foot-eight-inches," "6'3" (no spaces) are all acceptable. Do not say "six foot three".
 
 #### Hockey Line
 A forgotten Rensselaer tradition.
@@ -622,7 +622,7 @@ See also: [titles of works](#titles-of-works).
 Joint Board hears appeals of Judicial Board decisions. Use *Joint Board* on all references.
 
 #### Judicial Board
-The Judicial Board is a seven-student body which adjucates cases of violation of the Grounds for Disciplinary Action. See *The Rensselaer Handbook* for more information on the judicial process.
+The Judicial Board is a seven-student body which adjucates cases of violation of the Grounds for Disciplinary Action. See *Rensselaer Handbook* for more information on the judicial process.
 
 #### junior
 This is the term for a third-year undergraduate student. Use the term *juniors* in reference to a group of such students.
@@ -802,8 +802,8 @@ Also called a number sign or hash, this symbol (#) is derived from the once-comm
 #### president
 Not capitalized, unless in a title.
 
-#### president of the Union
-Use on first reference, *PU* subseqeuntly. The president of the Union has three roles: representative for the Rensselaer Union, chair of the Executive Board, and the highest elected representative of the students in the budgetary branch of student government. The PU appoints students to serve on the E-Board.
+#### President of the Union
+Use on first reference, *PU* subseqeuntly. The President of the Union has three roles: representative for the Rensselaer Union, chair of the Executive Board, and the highest elected representative of the students in the budgetary branch of student government. The PU appoints students to serve on the E-Board.
 
 See also: [Executive Board](#executive-board).
 
@@ -920,7 +920,7 @@ Use *RPI* or *Rensselaer* as an adjective; use *RPI*, *Rensselaer*, or *the Inst
 
 Avoid overusing any one name in a story, especially in sports articles.
 
-See *The Rensselaer Handbook* for a good history of the Institute. If you need additional historical material, go to the Institute Archives in the Folsom Library.
+See *Rensselaer Handbook* for a good history of the Institute. If you need additional historical material, go to the Institute Archives in the Folsom Library.
 
 #### Rensselaer Union
 Use on first reference, use *the Union* subsequently. Do not use *Student Union*.
@@ -1137,7 +1137,7 @@ For date references, avoid such constructions as *last Tuesday* or *next Monday*
 For example, if the date of issue is Wednesday, November 6, write time references as follows: *At a surprise meeting Monday, the Senate voted against the new parking proposal. The movie Jurassic Park will be the UPAC Cinema offering on Friday.*
 
 #### titles of persons
-On first reference, an individual's full title should be used, e.g. *First Chairman of the People's Republic of China Mao Zedong*. On subseqeunt references, use only the last name, e.g. *Mao*. (Chinese people have their family name come before their given name.) For a listing of individuals and their current titles, refer to the [campus directory](https://info.rpi.edu/)
+On first reference, an individual's full title should be used, e.g. *First Chairman of the People's Republic of China Mao Zedong*. On subseqeunt references, use only the last name, e.g. *Mao*. For a listing of individuals and their current titles, refer to the [campus directory](https://info.rpi.edu/)
 
 Titles should be capitalized when preceding a name, but not when following. Department names should still be capitalized if they are part of a title following a name, e.g. *First Chairman of the People's Republic of China Mao Zedong and Shirley Ann Jackson, president of Rensselaer Polytechnic Institute, discussed leadership over the masses*.
 
@@ -1174,18 +1174,20 @@ The [Clubhouse Pub](#clubhouse-pub) hosts trivia, usually for those 21 and over.
 #### Troy
 When referring to the city, Troy is all that is necessary. When an adjectival form is needed, use Troy as well. *Troy residents believe that Rensselaer is good for the community.* 
 
-Do not use Trojan or Troylet as an adjective or in reference to the residents of Troy. See *The Rensselaer Handbook* for a good brief description of the city. See also [Downtown Troy](#downtown-troy).
+Do not use Trojan or Troylet as an adjective or in reference to the residents of Troy. See *Rensselaer Handbook* for a good brief description of the city. See also [Downtown Troy](#downtown-troy).
 
 # U
 #### UAR
 See ***Union Annual Report***.
+
+#### Undergraduate President
+Use on first reference as seen above. Abbreivate as "UP" on subsequent references.
 
 #### URL
 Omit the subdomain *www.* from web addresses. Do not use *http://* or trailing slashes unless neccessary to access the site. 
 
 #### Union activity fee
 Specified each year in the *Union Annual Report*. Only capitalize Union and use *Union activity fee* on first reference. Subsequent references may use *activity fee*.
-
 
 #### Union Administration Office
 Use *Union Admin Office* on all references.
