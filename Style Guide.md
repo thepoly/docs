@@ -167,7 +167,7 @@ Do not use boldface for individual words or lines within a paragraph. Boldface i
 #### BROCKHAMPTON
 Best boy band since One Direction.
 	
-#### Brykwyck
+#### Bryckwyck
 A student dormitory complex near ECAV reserved for upperclassmen.
 
 #### building
