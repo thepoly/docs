@@ -491,7 +491,7 @@ Use *Flex* on all references to refer to the allowance on a meal plan.
 Use *Folsom Library* on first reference, *library* may be used on subsequent references if it’s clear there are no other libraries being referred to, like the *Architecture Library*.
 
 #### foreign language
-Do not italicize familiar foreign words in common English like a capella and deja vu.
+Do not italicize familiar foreign words in common English like a cappella and deja vu.
 
 Unfamiliar foreign words, such as those not used in common phrases, are italicized only the first time they appear in an article.
 
