@@ -1320,78 +1320,149 @@ Believe it or not, *ZIP Code* is a trademark owned by the USPS, use *zip code* i
 
 # Appendix B: RPI Buildings
 
-'87 Gymnasium - Abbreviate to '87 Gym
-2021 15th Street - Spell in Full
-2144 Burdett Avenue - Known as Parking and Transportation Office, spell in full
-41 Ninth Street - Black Cultural Center, spell in full. https://www.rpi.edu/dept/union/bsa/public_html/bcc.html
-Academy Hall - Spell in Full
-Admissions - Use Admissions Building on all references. Title: Nancy Deloye Fitzroy ’49 and Roland V. Fitzroy Jr. Admissions Building
-Alumni House (Heffner) - Heffner Alumni House on first reference, Alumni House subsequently
-Alumni Sports & Recreation Center - Use Armory on all references
-Amos Eaton Hall - Spell in Full
-Barton Hall - Spell in Full
-Blaw-Knox 1 & 2 - Spell in Full. Houses Risk Management & Loss Prevention and Radiation & Nuclear Safety.
-Blitman Commons - Spell in Full for first, Blitman on subsequently
-Boiler House, 11th Street - Spell in Full
-Boiler House, Sage Avenue - Spell in Full
-Bray Hall - Spell in Full
-Bryckwyck - Spell in Full
-Burdett Avenue Residence Hall - Abbreviate to BARH 
-Carnegie Building - Spell in Full
-Center for Biotechnology and Interdisciplinary Studies (CBIS) - Use title on first, CBIS on subsequently
-Chapel + Cultural Center - Use title on first, C+CC on rest
-Cogswell Laboratory - Spell in Full
-Colonie Apartments - Spell in Full, specify if applicable
-Commons Dining Hall - Spell in Full
-Darrin Communications Center - Use title on first, DCC subsequently
-East Campus Athletic Village Arena (ECAV) - Use title on first, ECAV subsequently
-East Campus Athletic Village Stadium - Use title on first, ECAV Stadium subsequently
-Empire State Hall - Spell in Full
-Experimental Media & Performing Arts Center (EMPAC) - Use Experimental Media and Performing Arts Center on first, EMPAC subsequently
-Folsom Library - Use title on first, library subsequentlyonly if no ambiguity exists with another library
-Graduate Education - Spell in Full
-Greene Building - Spell in Full
-Greenhouses and Grounds Barn - Spell in Full
-H Building - Spell in Full
-Hall Hall - Spell in Full
-Houston Field House - Use title on first, Field House subsequently
-J Building - Spell in Full
-Jonsson Engineering Center (JEC) - Spell in Full, abbreviate to JEC subsequently
-Jonsson-Rowland Science Center - Use title on first, JROWL subsequently
-LINAC Facility (Gaerttner Laboratory) - Spell in Full
-Lally Hall - Spell in Full
-Low Center for Industrial Innovation (CII) - Use title on first, Low Center subsequently
-Materials Research Center (MRC) - Use title on first, MRC subsequently
-Mueller Center - Spell in Full
-Nason Hall - Spell in Full
-North Hall - Spell in Full
-Nugent Hall - Spell in Full
-Parking Garage - Spell in Full
-Patroon Manor - Spell in Full
-Pittsburgh Building - Spell in Full
-Playhouse - RPI Playhouse on first, subsequently Playhouse
-Polytechnic Residence Commons - Spell in Full
-Public Safety Building - Spell in Full
-Quadrangle Complex - Spell in Full
-Radio Club W2SZ - Spell in FUll
-Rensselaer Apartment Housing Project A - RAHP A on all references, prefer building name
-Rensselaer Apartment Housing Project B - RAHP B on all references, prefer building name
-Rensselaer Union - Spell on first, the Union subsequently
-Ricketts Building - Spell in Full
-Robison Swimming Pool - Spell in Full
-Rousseau Apartments - Say a construction of the form "the Rousseau Residence Hall in the Stacwyck Apartments" on first and "Rousseau" on subsequently
-Russell Sage Dining Hall - Use title on first, Sage Dining Hall subsequently
-Russell Sage Laboratory - Use title on first, Sage Lab subsequently
-Service Building - Spell in Full
-Sharp Hall - Spell in Full
-Stacwyck Apartments - Spell in Full
-Troy Building - Spell in Full
-Voorhees Computing Center (VCC) - Use title on first, VCC subsequently
-Walker Laboratory - Spell in Full
-Warren Hall - Spell in Full
-West Hall - Spell in Full
-Williams Apartments - Spell in Full
-Winslow Building - Spell in Full
+*'87 Gymnasium* - Abbreviate to '87 Gym
+
+*2021 15th Street* - Spell in Full
+
+*2144 Burdett Avenue* - Known as Parking and Transportation Office, spell in full
+
+*41 Ninth Street* - Black Cultural Center, spell in full. https://www.rpi.edu/dept/union/bsa/public_html/bcc.html
+
+*Academy Hall* - Spell in Full
+
+*Admissions Building*  - Use Admissions Building on all references. Title: Nancy Deloye Fitzroy ’49 and Roland V. Fitzroy Jr. Admissions Building
+
+*Alumni House (Heffner)* - Heffner Alumni House on first reference, Alumni House subsequently
+
+*Alumni Sports & Recreation Center* - Use Armory on all references
+
+*Amos Eaton Hall* - Spell in Full
+
+*Barton Hall* - Spell in Full
+
+*Blaw-Knox 1 & 2* - Spell in Full. Houses Risk Management & Loss Prevention and Radiation & Nuclear Safety.
+
+*Blitman Commons* - Spell in Full for first, Blitman on subsequently
+
+*Boiler House, 11th Street* - Spell in Full
+
+*Boiler House, Sage Avenue* - Spell in Full
+
+*Bray Hall* - Spell in Full
+
+*Bryckwyck* - Spell in Full
+
+*Burdett Avenue Residence Hall* - Abbreviate to BARH 
+
+*Carnegie Building* - Spell in Full
+
+*Center for Biotechnology and Interdisciplinary Studies (CBIS)* - Use title on first, CBIS on subsequently
+
+*Chapel + Cultural Center* - Use title on first, C+CC on rest
+
+*Cogswell Laboratory* - Spell in Full
+
+*Colonie Apartments* - Spell in Full, specify if applicable
+
+*Commons Dining Hall* - Spell in Full
+
+*Darrin Communications Center* - Use title on first, DCC subsequently
+
+*East Campus Athletic Village Arena (ECAV)* - Use title on first, ECAV subsequently
+
+*East Campus Athletic Village Stadium* - Use title on first, ECAV Stadium subsequently
+
+*Empire State Hall* - Spell in Full
+
+*Experimental Media & Performing Arts Center (EMPAC)* - Use Experimental Media and Performing Arts Center on first, EMPAC subsequently
+
+*Folsom Library* - Use title on first, library subsequently only if no ambiguity exists with another library
+
+*Graduate Education* - Spell in Full
+
+*Greene Building* - Spell in Full
+
+*Greenhouses and Grounds Barn* - Spell in Full
+
+*H Building* - Spell in Full
+
+*Hall Hall* - Spell in Full
+
+*Houston Field House* - Use title on first, Field House subsequently
+
+*J Building* - Spell in Full
+
+*Jonsson Engineering Center (JEC)* - Spell in Full, abbreviate to JEC subsequently
+
+*Jonsson-Rowland Science Center* - Use title on first, JROWL subsequently
+
+*LINAC Facility (Gaerttner Laboratory)* - Spell in Full
+
+*Lally Hall* - Spell in Full
+
+*Low Center for Industrial Innovation (CII)* - Use title on first, Low Center subsequently
+
+*Materials Research Center (MRC)* - Use title on first, MRC subsequently
+
+*Mueller Center* - Spell in Full
+
+*Nason Hall* - Spell in Full
+
+*North Hall* - Spell in Full
+
+*Nugent Hall* - Spell in Full
+
+*Parking Garage* - Spell in Full
+
+*Patroon Manor* - Spell in Full
+
+*Pittsburgh Building* - Spell in Full
+
+*Playhouse* - RPI Playhouse on first, subsequently Playhouse
+
+*Polytechnic Residence Commons* - Spell in Full
+
+*Public Safety Building* - Spell in Full
+
+*Quadrangle Complex* - Spell in Full
+
+*Radio Club W2SZ* - Spell in FUll
+
+*Rensselaer Apartment Housing Project A* - RAHP A on all references, prefer building name
+
+*Rensselaer Apartment Housing Project B* - RAHP B on all references, prefer building name
+
+*Rensselaer Union* - Spell on first, the Union subsequently
+
+*Ricketts Building* - Spell in Full
+
+*Robison Swimming Pool* - Spell in Full
+
+*Rousseau Apartments* - Say a construction of the form "the Rousseau Residence Hall in the Stacwyck Apartments" on first and "Rousseau" on subsequently
+
+*Russell Sage Dining Hall* - Use title on first, Sage Dining Hall subsequently
+
+*Russell Sage Laboratory* - Use title on first, Sage Lab subsequently
+
+*Service Building* - Spell in Full
+
+*Sharp Hall* - Spell in Full
+
+*Stacwyck Apartments* - Spell in Full
+
+*Troy Building* - Spell in Full
+
+*Voorhees Computing Center (VCC)* - Use title on first, VCC subsequently
+
+*Walker Laboratory* - Spell in Full
+
+*Warren Hall* - Spell in Full
+
+*West Hall* - Spell in Full
+
+*Williams Apartments* - Spell in Full
+
+*Winslow Building* - Spell in Full
 
 # Appendix C: Colleges
 The following is a list of colleges RPI regularly interacts with:
