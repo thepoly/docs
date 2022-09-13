@@ -505,7 +505,7 @@ Spell out if under one, with hyphens in between words, e.g., *two-thirds*, *nine
 See [Appendix F](#appendix-f-rpi-fraternities).
 
 #### freshman
-*First-year* is the more proper term for a first-year undergraduate student at RPI. In describing a group of first-year students, use *first-years*. Never use *freshperson*, *freshpeople*, *freshwoman*, *freshwomen*, or *frosh*. *Freshman* and *freshmen* are the more imporoper term allowed in opinion pieces.
+*First-year* is the more proper term for a first-year undergraduate student at RPI. In describing a group of first-year students, use *first-years*. Never use *freshperson*, *freshpeople*, *freshwoman*, *freshwomen*, or *frosh*. *Freshman* and *freshmen* are the more improper term allowed in opinion pieces.
 
 #### the Freshman Circle
 Includes the Freshman Five (except for Nason Hall), Commons Dining Hall, and Barton Hall.
@@ -778,7 +778,7 @@ See [this Union website](https://petitions.union.rpi.edu/).
 Union Room 3502. Use *Phalanx Room* on all references.
 
 #### pictures
-For naming conventions on Wagtail, do *name-date*, then fill out the photographer section, e.g., *menstennis-09-10-23*. If there is more than one picture per article, you can add a counter after the name of the event, e.g., *menstennis3-09-10-23*.
+For naming conventions on Wagtail, do *name_date*, then fill out the photographer section, e.g., *menstennis_09-10-23*. If there is more than one picture per article, you can add a counter at the end, e.g., *menstennis-09-10-23_3*.
 #### Pipeline
 The [website](https://poly.rpi.edu/) for *The Polytechnic*.
 
