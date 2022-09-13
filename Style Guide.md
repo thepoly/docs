@@ -777,6 +777,9 @@ See [this Union website](https://petitions.union.rpi.edu/).
 #### Phalanx Room
 Union Room 3502. Use *Phalanx Room* on all references.
 
+#### pictures
+For naming photos on wagtail, do *name*-*date*, then fill out the photographer section, e.g., *womans
+
 #### Pipeline
 The [website](https://poly.rpi.edu/) for *The Polytechnic*.
 
