@@ -116,13 +116,14 @@ The school you graduated from, and, when capitalized, the song sung at formal ce
 #### alphabet soup
 A term used in linguistics as a metaphor for an abundance of abbreviations or acronyms, this phenomenon can be seen across campus. See [CLASS](#class-initiative).
 
-#### alumni
-
 #### Alumni House
 See [Heffner Alumni House](#heffner-alumni-house).
 
 #### am, pm
 See [time and date references](#time-and-date-references).
+
+#### American diction
+Use the American spelling of words, e.g., *color* and *gray*.
 
 #### apostrophe
 See [possessives](#possessives).
@@ -357,7 +358,7 @@ A contentious administrative staff position in the Union now held by Charlie Pot
 #### discrimination
 Use adjectives like *homophobic* and *transphobic*. 
 
-See also: [racist](#racist).
+See also: [racism](#racism).
 
 #### doctorate student
 See [class years](#class-years).
@@ -373,7 +374,7 @@ When referring to Downtown Troy as an area, capitalize it.
 
 # E
 #### early action
-In the admissions process, Early Action is used by an applicant to get an early response to their application and is nonbinding. RPI does not offer this type of early admission process.
+In the admissions process, Early Action is used by an applicant to get an early response to their application and is nonbinding.
 
 #### early decision
 In the admissions process, Early Decision is used by an applicant to identify the school they are applying to as their first choice. Early Decision is binding—if accepted, the applicant must go to that school. RPI offers both *Early Decision I* and *Early Decision II*, with *EDII* having a later due date than *EDI*. 
@@ -388,7 +389,7 @@ See [athletic facilities](#athletic-facilities).
 Abbreviation for the *Eastern Collegiate Athletic Conference*, which should be used on first reference. *ECAC* should be used on subsequent references.
 
 #### Editor’s note
-Used to correct an article after publication.
+Used to update an article after publication. Use a correction to correct an article after publication.
 
 #### Editorial Notebook
 All *Poly* staff are required to write notebooks, which are typically vignettes of college life with a moral.
@@ -504,7 +505,7 @@ Spell out if under one, with hyphens in between words, e.g., *two-thirds*, *nine
 See [Appendix F](#appendix-f-rpi-fraternities).
 
 #### freshman
-This is not the proper term for a first-year undergraduate student at RPI instead use first-year. In describing a group of first-year students, use *first-years*. Never use *freshperson*, *freshpeople*, *freshwoman*, *freshwomen*, *freshman*, or *frosh*. Use freshman ONLY when in a quote.
+*First-year* is the more proper term for a first-year undergraduate student at RPI. In describing a group of first-year students, use *first-years*. Never use *freshperson*, *freshpeople*, *freshwoman*, *freshwomen*, or *frosh*. *Freshman* and *freshmen* are the more imporoper term allowed in opinion pieces.
 
 #### the Freshman Circle
 Includes the Freshman Five (except for Nason Hall), Commons Dining Hall, and Barton Hall.
@@ -660,9 +661,6 @@ Examples:
 #### LGBTQ
 Though there are many sexual orientations, The Poly uses *LGBTQ* to refer to the entire spectrum. If it is referred to by another organization (i.e. the Senate or E-Board) as LGBTQIA or LGBTQ+ in their policies or procedures, use that term in describing their policies and procedures.
 
-#### like
-*Like* is preferred over *such as*.
-
 #### LMS
 The *Rensselaer Learning Management System* is a BlackBoard portal used by some professors to provide electronic materials for classes. It’s been known to go offline at inopportune times, such as immediately before a quiz, or during finals week. Use *Learning Management System* on first reference for news, *LMS* subsequently. *LMS* can be used on any reference in opinion and features pieces.
 
@@ -677,7 +675,7 @@ Separate lines by a " / " construction, e.g., *"Keep a gold chain on my neck / F
 
 # M
 #### Mail Services
-Currently in Commons Dining Hall, the RPI mailroom will be moved to the bookstore.
+The RPI mailroom is next to the bookstore at the bottom floor of the Union.
 
 #### majors
 Do not capitalize the names of majors, unless it is a title specific to an RPI program, e.g., *Science, Technology, and Society* vs. *computer science*, *civil engineering*, or *geology*. A list of undergraduate and graduate major codes can be found [here](http://www.rpi.edu/dept/srfs/degreeAppWithMajorCodes.pdf).
@@ -757,7 +755,9 @@ See also: [percentages](#percentages), [time and date references](#time-and-date
 # O
 
 #### oxford comma
-Also called a “serial comma,” this is the comma immediately before the coordinating conjunction (often “and” or “or”) in a series of three or more terms. Use it. 
+Also called a “serial comma,” this is the comma immediately before the coordinating conjunction (often “and” or “or”) in a series of three or more terms. Use it.
+
+See also: [punctuation](#punctuation).
 
 # P
 #### Panhellenic Council
@@ -777,6 +777,8 @@ See [this Union website](https://petitions.union.rpi.edu/).
 #### Phalanx Room
 Union Room 3502. Use *Phalanx Room* on all references.
 
+#### pictures
+For naming conventions on Wagtail, do *name-date*, then fill out the photographer section, e.g., *menstennis-09-10-23*. If there is more than one picture per article, you can add a counter after the name of the event, e.g., *menstennis3-09-10-23*.
 #### Pipeline
 The [website](https://poly.rpi.edu/) for *The Polytechnic*.
 
@@ -826,7 +828,7 @@ This building at the end of the [15th Street footbridge](#15th-street-footbridge
 RPI's mascot, and SIS Man's biggest rival.
 
 #### punctuation
-Use the **oxford comma**.
+Use the [oxford comma](#oxford-comma).
 
 When pluralizing an acronym, do not use an apostrophe. Similarly, you do not need an apotrophe for references to a [decade](#decade).
 >Wrong: TA's in the ’80's  
@@ -992,8 +994,6 @@ Not capatalized unless used as a title.
 #### senior
 This is the term for a fourth-year undergraduate student. Use the term *seniors* in reference to a group of such students.
 
-#### sexual misconduct
-
 #### Shelnutt Gallery
 Located in Union Room 3606, this is where many student and community artworks are displayed throughout the year. It is also used, on occasion, as a meeting room. Use *Shelnutt Gallery* on all references.
 
@@ -1002,9 +1002,6 @@ The *Society of Hispanic Professional Engineers* is one half of the annual [NSBE
 
 #### shuttles
 On weekdays, there are three shuttle routes, the *North*, *South*, and *West* routes which are served by the North, South, and West campus shuttles. On weekends, there are two shuttle routes, the *East* and *West* routes which are served by the East and West campus shuttles.
-
-#### shuttle tracker
-[Check it out](https://poly.rpi.edu/shuttles/).
 
 #### SIS
 The *Rensselaer Student Information System* (also known as the *Self-Service Information System*; both are found on the website) can be accessed by current and former students to view their progress through [Degree Works](#degree-works), request transcripts, schedule classes, and more. *Student Information System* should be used on first reference in a news piece, *SIS* should be used subsequently. *SIS* can be used on any reference in an opinion or features piece.
@@ -1216,7 +1213,7 @@ Use upstate New York (note capitalization) when describing the area of New York 
 
 # V
 #### vape
-A verb and a noun, vape, vaped, vaping. See also: electronic cigarettes.
+A verb and a noun, vape, vaped, vaping. See also: [electronic cigarettes](#electronic-cigarettes).
 
 #### versus
 Use *versus* always in news stories, *vs.* is acceptable in features and opinion. Always use *v.* in reference to court cases.
@@ -1228,7 +1225,7 @@ The other way around. Do not hyphenate.
 Now called the [Public Safety Building](#public-safety-building).
 
 #### voice actors
-See **characters**.
+See [characters](#characters).
 
 #### Voorhees Computing Center
 Use *Voorhees Computing Center* on first reference, *VCC* subsequently. VCC is acceptable on first reference if the full form would create an unwieldy sentence, as long as the long form is used on the very next reference.
@@ -1426,7 +1423,7 @@ Believe it or not, *ZIP Code* is a trademark owned by the USPS, use *zip code* i
 
 *Quadrangle Complex* - Spell in Full
 
-*Radio Club W2SZ* - Spell in FUll
+*Radio Club W2SZ* - Spell in Full
 
 *Rensselaer Apartment Housing Project A* - RAHP A on all references, prefer building name
 
@@ -1678,6 +1675,13 @@ The following Greek organizations are part of the [Interfraternity Council](#int
 - Theta Chi (Zoo)
 - Zeta Psi (Zetes)
 
+# Appendix G: Grammar
+The following is a list of useful grammar etiquette. 
+- See [quotation](#quotation) for more, but punctuation normally goes inside quotes.
+- Capitalize titles when before the name but not after.
+- Use the oxford comma. Always. See [oxford comma](#oxford-comma).
+- Do not start articles with a date.
+- Use the ending apostrophe for class years, not the starting one.
 
 # Appendix S: RPI Sororities
 - Alpha Gamma Delta (AGD)
