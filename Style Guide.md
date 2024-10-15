@@ -221,7 +221,7 @@ Capitalize acronyms.
 Recently replaced by [Degree Works](#degree-works).
 
 #### captions
-When writing a caption, create a full sentence. Write in all caps up to and including the first verb of the sentence; write in lowercase after the verb. Include punctuation, e.g., *EVERYONE KNOWS about that one Quad bench.*
+When writing a caption, create a full sentence. Example: *Everyone knows about that one Quad bench.* If multiple people's names are used in a caption, such as the GM and PU standing next to each other, clarify who is who based on their location in the photo. Example: *Grand Marshal Bob (left) and President of the Union Alice (right) stand with Director of the Union Charlie (middle)* 
 
 #### career fair
 The *NSBE/SHPE Career Fair* and the *CCPD Spring Career Fair* are annual events on the RPI campus. Refer to both events as above on the first reference. Use *career fair* (note capitalization) on subsequent references if there is no doubt as to which career fair you are referring to. Do not spell out [NSBE](#nsbe), [SHPE](#shpe), or [CCPD](#center-for-career-and-professional-development) when used in the titles of the fairs. Spell out the organization's names on first reference as an entity. 
@@ -475,7 +475,7 @@ When using an ordinal (first, second, third, etc.) and "year," typically hyphena
 A lesson in the complexities of hypenation. *The Office of First Year Experience* is NOT hyphenated, and neither is their acronym, *FYE*. Sorry.
 
 #### Fiscal Year
-Capitalized in reference to a specific year, e.g. *Fiscal Year 2019*. This can be abbreviated as *FY 19*, but a nonspecific reference is not capitalized: *fiscal year*.
+Capitalized in reference to a specific year, e.g. *Fiscal Year 2019*. This can be abbreviated as *FY19*, but a nonspecific reference is not capitalized: *fiscal year*. When abbreviated, keep as one word.
 
 #### FIXX
 This acronym doesn’t actually stand for anything; it is officially short for facilities work request. Use *FIXX* to refer to the organization a student, club officer, or faculty member requests to repair facilities on campus. 
@@ -957,8 +957,8 @@ The [Web Tech](#web-technologies-group)project allowing students to file petitio
 
 #### RPI TV
 
-#### Rules and Elections Committee
-Use on first reference, *R&E* subsequently.
+#### Rules and Elections Commission
+Use *Elections Commission* on first reference, *the Commission* subsequently. If multiple commissions are being referenced, use *Elections Commission* on all references.
 
 #### rush
 Not capitalized.
