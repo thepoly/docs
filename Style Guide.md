@@ -221,7 +221,7 @@ Capitalize acronyms.
 Recently replaced by [Degree Works](#degree-works).
 
 #### captions
-When writing a caption, create a full sentence. Example: *Everyone knows about that one Quad bench.*
+When writing a caption, create a full sentence. Example: *Everyone knows about that one Quad bench.* If multiple people's names are used in a caption, such as the GM and PU standing next to each other, clarify who is who based on their location in the photo. Example: *Grand Marshal Bob (left) and President of the Union Alice (right) stand with Director of the Union Charlie (middle)* 
 
 #### career fair
 The *NSBE/SHPE Career Fair* and the *CCPD Spring Career Fair* are annual events on the RPI campus. Refer to both events as above on the first reference. Use *career fair* (note capitalization) on subsequent references if there is no doubt as to which career fair you are referring to. Do not spell out [NSBE](#nsbe), [SHPE](#shpe), or [CCPD](#center-for-career-and-professional-development) when used in the titles of the fairs. Spell out the organization's names on first reference as an entity. 
