@@ -104,7 +104,10 @@ Avoid, especially in headlines. This non-specific reference to a body at RPI is 
 #### administrator
 Preferred over administration. 
 
-#### Admissions Building
+#### admissions
+Admissions is split into two offices, Undergraduate Admissions and Graduate Admissions. Use *Office of Undergraduate Admissions* and *Office of Graduate Admissions* on first reference. Use *Admissions* on every subsequent reference unless you are referencing both offices then use *Undergraduate Admissions* and *Graduate Admissions*. 
+
+#### Admissions Buildings
 The full name of this building is the *Nancy Deloye Fitzroy ’49 and Roland V. Fitzroy Jr. Admissions Building*, use *Admissions Building* on all references.
 
 #### advisor
@@ -162,12 +165,6 @@ Use *Blitman Commons* on first reference, *Blitman* on subsequent references.
 From their bylaws:
 >"The Board of Trustees constitutes the body corporate and paramount governing authority of the Institute, and shall have and shall responsibly exercise all of the powers prescribed by the Act of Incorporation and other applicable law. These powers relate primarily to the establishment of educational goals and policy, conferring of degrees, and the development and management of financial resources."
 
-#### boldface type
-Do not use boldface for individual words or lines within a paragraph. Boldface is used strictly as a layout element.
-
-#### BROCKHAMPTON
-Best boy band since One Direction.
-	
 #### Bryckwyck
 A student dormitory complex near ECAV reserved for upperclassmen.
 
@@ -181,12 +178,6 @@ bus, buses, bused, and busing.
 See [shuttle tracker](#shuttle-tracker).
 	
 # C
-#### Campus Card
-The Campus Card (also called the RPI ID) is the official ID for RPI community members. It must be on you at all times to be prepared to be presented to any campus official at their behest.
-
-#### Campus Unisex Hair Salon
-Take your money and support a local business in Downtown Troy, I'll leave it at that.
-
 #### Capital District
 Use *Capital District* on all references. This refers to the area around Albany and is more urban-focused than [Capital Region](#capital-region). Use your best judgment when deciding between Region and District.
 
@@ -217,11 +208,10 @@ Do not capitalize seasons unless in reference to a specific semester, e.g. *Spri
 
 Capitalize acronyms.
 
-#### CAPP report
-Recently replaced by [Degree Works](#degree-works).
-
 #### captions
-When writing a caption, create a full sentence. Example: *Everyone knows about that one Quad bench.* If multiple people's names are used in a caption, such as the GM and PU standing next to each other, clarify who is who based on their location in the photo. Example: *Grand Marshal Bob (left) and President of the Union Alice (right) stand with Director of the Union Charlie (middle)* 
+TODO: Come back to this
+
+When writing a caption, create a full sentence. Example: *Everyone knows about that one Quad bench.* If multiple people's names are used in a caption, clarify who is who based on their location in the photo from left to right. Example: *Grand Marshal Alice (left), Director of the Union Bob (middle), and President of the Union Charlie at an event* 
 
 #### career fair
 The *NSBE/SHPE Career Fair* and the *CCPD Spring Career Fair* are annual events on the RPI campus. Refer to both events as above on the first reference. Use *career fair* (note capitalization) on subsequent references if there is no doubt as to which career fair you are referring to. Do not spell out [NSBE](#nsbe), [SHPE](#shpe), or [CCPD](#center-for-career-and-professional-development) when used in the titles of the fairs. Spell out the organization's names on first reference as an entity. 
@@ -245,15 +235,13 @@ Use figures for numbers 10 or higher, e.g., *21st century*, *fifth century*.
 *Chairperson* is the gender-neutral term for a chairman or chairwoman. Do not abbreviate to chair.
 
 #### Chapel and Cultural Center
+TODO: What is this?
 Use *Chapel and Cultural Center* on first reference. Located on Burdett Avenue, this building serves as a chapel for Christ Sun of Justice parish. It is used for a variety of artistic presentations, including plays and concerts. The abbreviation for this building is the *C+CC*.
 
 #### characters
 On first reference of a character in a TV or movie review, if you want to let the audience know who a caracter is played or voiced by, list the character’s name and the voice actor in parentheses immediately after. 
 
 *In the episode “Magnetic Lofty,” Lofty (Sonya Leite) removes train tracks using a magnet.* Note, when specifying a character is playing themselves, do not use the parenthetical.
-
-#### chopsticks
-The only acceptable utensil with which to eat [Flamin’ Hot Cheetos](#flamin-hot-cheetos).
 
 #### CIO
 Chief Information Officer. Spell out *CIO* on first reference. Use *CIO* on all subsequent references. See [DotCIO](#dotcio).
@@ -264,9 +252,6 @@ Avoid using this verb, especially in news stories. To claim implies doubt. Never
 #### Class Councils
 Capitalized when used as a proper noun. *The class councils made a decision. The Class of 2022 Council disagreed with the rest of the councils.*
 
-#### CLASS initiative
-Short for *Clustered Learning Advocacy and Support for Students*, use *CLASS* on all references.
-
 #### class years
 When referring to an entire class, use "Class of" followed by the four-digit year, e.g., *Class of 1999*.
 
@@ -276,9 +261,9 @@ When referring to someone who is a current undergraduate student at RPI, use the
 
 When referring to someone who is a current graduate or doctorate student at RPI, refer to them as a graduate or PhD student, respectively. If they graduated from RPI with some degree previously, indicate that as outlined above, e.g., *graduate student John F. Kennedy ’63*, or *PhD student Rosa Parks*. Note the lack of punctuation for “PhD”.
 
-When referring to someone who graduated more than 90 years ago (before 1931 as of 2021), indicate the class year by following the person’s name with “Class of XXXX” preceded and followed by commas, e.g. *Allen B. DuMont, Class of 1924,* is considered the father of modern TV.
+When referring to someone who graduated more than 90 years ago (before 1935 as of 2025), indicate the class year by following the person’s name with “Class of XXXX” preceded and followed by commas, e.g. *Allen B. DuMont, Class of 1924,* is considered the father of modern TV.
 
-When referring to someone who graduated with multiple degrees from Rensselaer, choose the date of their earliest degree.
+When referring to someone who graduated with multiple degrees from Rensselaer, choose the date of their earliest degree, unless they are a current student. If they are a current student, write out all degrees. e.g. *John Smith '25, '27G*.
 
 #### Clubhouse Pub
 Located on the third floor of the Union, this is the only place on campus any undergraduates, regardless of age, are allowed to drink on campus.
@@ -294,8 +279,6 @@ The College Media Association hosts the Spring National College Media Convention
 
 #### colleges
 See [Appendix C](#appendix-c-colleges).
-
-#### Collegiate Store
 
 #### colon
 Has a variety of uses, often used to introduce a quote. See [punctuation](#punctuation).
@@ -320,7 +303,7 @@ See [captions](#captions).
 
 # D
 #### DCC
-Use *Darrin Communications Center* on first reference, *DCC* subsequently. *DCC* is acceptable on first reference if the full form would create an unwieldy sentence, as long as the long form is used on the very next reference.
+Use *Darrin Communications Center* on first reference, *DCC* subsequently. *DCC* is acceptable on first reference if the full form would create an unwieldy sentence.
 
 #### dashes
 see [en dash](#en-dash), [em dash](#em-dash), [figure dash](#figure-dash), and [hyphen](#hyphen).
@@ -344,16 +327,16 @@ Used to track graduation progress via [SIS](#sis).
 A weekly piece written by the President of the Union, published under our Opinion section.
 
 #### diacritics
-Use diacritics whenever necessary, like in *résumé*, *Ampère*, *Brontë*, *açaí*, *façade*, *entrée*, *crème brûlée*, *kālua*, *doppelgänger*, and *jalapeño*.
+Use diacritics whenever necessary, like in *résumé*, *Ampère*, *Brontë*, *açaí*, *façade*, *entrée*, *crème brûlée*, *kālua*, *doppelgänger*, and *jalapeño*. 
 
 #### dining halls
-RPI has four dining halls, Russell Sage Dining Hall, Commons Dining Hall, BARH Dining Hall, and Blitman Commons Dining Hall.
+RPI has four dining halls, Russell Sage Dining Hall, Commons Dining Hall, BARH Dining Hall, and Blitman Commons Dining Hall. Commons Dining Hall can be referred to as *Commons* on subsequent references.
 
 #### directions
 Capitalize north, south, etc., when referencing a specific region or the direction is a part of a proper name, e.g., *East Campus Athletic Village*, *West Hall*, *the Northeast*. Do not capitalize when using as a direction, e.g., *take five steps to the north*.
 
 #### Director of the Union
-A contentious administrative staff position in the Union now held by Charlie Potts.
+A administrative staff position in the Union now held by Charlie Potts. Never use *Union Director*. 
 
 #### discrimination
 Use adjectives like *homophobic* and *transphobic*. 
@@ -420,7 +403,7 @@ Avoid references to these unless these are relevant to the focus of an article. 
 Capitalize ethnic groups when they are associated with a specific place, e.g. *Greeks*, *Turks*, *Chinese*, or *Native American*. When referencing race, use "Black," "Black people," "white," or "white people". Avoid using "brown/Brown" or as a race, instead further specify ethnicity.
 
 #### EMPAC
-The full name of this building is the *Curtis R. Priem Experimental Media and Performing Arts Center*. Use *Experimental Media and Performing Arts Center* on first reference, EMPAC subsequently. EMPAC is acceptable on first reference if the full form would create an unwieldy sentence, as long as the long form is used on the very next reference. 
+The full name of this building is the *Curtis R. Priem Experimental Media and Performing Arts Center*. Use *Experimental Media and Performing Arts Center* on first reference, EMPAC subsequently. EMPAC is acceptable on first reference if the full form would create an unwieldy sentence. 
 
 Use *EMPAC* on first reference only when referring to the body/organization, not the building.
 
@@ -441,11 +424,11 @@ This is the governing body of the [Rensselaer Union](#rensselaer-union). Its mem
 *E-Board* or *Union Executive Board* may be used on any reference. *Executive Board* and *the Board* may also be used on any reference when it is clear there are no other boards being referred to.
 
 #### Executive Board Representative
-This is a person who represents clubs in the Executive Board. If it references a specific person then representative is capitalized, e.g., "Executive Board Representative John Doe". If it references someone generally then representative is lowercase, e.g., "an Executive Board representative's job is to..."
+This is a person who represents clubs in the Executive Board. If it references a specific person then representative is capitalized, e.g., "Representative John Doe". If it references someone generally then representative is lowercase, e.g., "an Executive Board representative's job is to..."
 
 #### expletives
 Generally avoid unless in quotes or otherwise absolutely neccessary.
-	
+
 # F
 #### faculty
 The members of the academic staff, i.e. professors, lecturers, etc.
@@ -481,9 +464,6 @@ Capitalized in reference to a specific year, e.g. *Fiscal Year 2019*. This can b
 This acronym doesn’t actually stand for anything; it is officially short for facilities work request. Use *FIXX* to refer to the organization a student, club officer, or faculty member requests to repair facilities on campus. 
 
 See also: [Environmental and Site Services](#environmental-and-site-services).
-
-#### Flamin’ Hot Cheetos
-The official snack of *The Polytechnic*.
 
 #### Flex Dollars
 Use *Flex* on all references to refer to the allowance on a meal plan.
@@ -536,13 +516,13 @@ See [class years](#class-years).
 The Grand Marshal is the highest elected official, equivalent to a student body president. The first Grand Marshal, Albert Harper, was elected in 1866. Always capitalize *Grand Marshal*, and use *GM* on subsequent references. The Grand Marshal only votes in [Student Senate](#student-senate) matters to break a tie. As the representative and the leader of the students, the Grand Marshal is a useful source of information and story leads.
 
 #### Grand Marshal Week
-Use *Grand Marshal Week* on first reference, *GM Week* on subsequent references. It’s designed to spark interest in student government elections. It usually starts on a Friday early in April and ends the following Friday night. Primary and final voting take place during the week. GM Week is organized by the GM Week Committee, a sub-committee of the [Rules and Elections Committee](#rules-and-elections-committee) of the [Student Senate](#student-senate). However, most of the events are sponsored by various campus clubs and organizations.
+Use *Grand Marshal Week* on first reference, *GM Week* on subsequent references. It’s designed to spark interest in student government elections. It usually starts on a Monday in mid-March and that Friday night. Primary and final voting take place during the week. GM Week is organized by the GM Week Committee, a sub-committee of the [The Elections Commission](#elections-commission) of the [Student Senate](#student-senate). However, most of the events are sponsored by various campus clubs and organizations.
 
 #### Ground Zero
 A student organization that hosts mostly music shows, often at [2 Edgehill Terrace](#east-campus-class-community-center).
 
 #### GPA
-Capitalize. Something about quality points...
+Capitalize.
 
 #### gray
 Use gray on all references, never grey.
@@ -892,7 +872,7 @@ If something is racist, it can be called so. Be careful with this designation, h
 The food court in the center of the 1000-level of the Rensselaer Union. Currently home to Thunder Mountain Curry, The Halal Shack, Collar City Grill, and Cusato's Pizza, numerous establishments have come and gone over the years, including Chester's Chicken, Fire & Spice, and SubConnection.
 
 #### RCS ID
-Short for *Rensselaer Computing System Userid* (note that "userid" is one word). Use *RCS ID* on all references.
+Short for *Rensselaer Computing System Userid* (note that "userid" is one word and is the text before your email). Use *RCS ID* on all references.
 
 #### recipe
 See [fractions](#fractions) for how to refer an amount of ingredient. Use the common abbreviations for measurements, e.g. *cup*, *Tbsp.*, *tsp.*, *oz.* See the [Bon Appétit website](#https://www.bonappetit.com/recipes) for all things recipe formatting.
@@ -957,7 +937,7 @@ The [Web Tech](#web-technologies-group)project allowing students to file petitio
 
 #### RPI TV
 
-#### Rules and Elections Commission
+#### Elections Commission
 Use *Elections Commission* on first reference, *the Commission* subsequently. If multiple commissions are being referenced, use *Elections Commission* on all references.
 
 #### rush
