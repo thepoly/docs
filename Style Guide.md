@@ -1118,6 +1118,8 @@ On first reference, an individual's full title should be used, e.g. *First Chair
 
 Titles should be capitalized when preceding a name, but not when following. Department names should still be capitalized if they are part of a title following a name, e.g. *First Chairman of the People's Republic of China Mao Zedong and Shirley Ann Jackson, president of Rensselaer Polytechnic Institute, discussed leadership over the masses*.
 
+When referring to individuals with a doctorate add *Dr.* before their full name. On subsequent references, use *Dr.* followed by their last name. e.g. *Dr. John Smith* on first reference, *Dr. Smith* on subsequent references.
+
 #### titles of works
 A good rule of thumb for determining whether to italicize or put in quotations is the following: short works are put in quotes, long works are italicized.
 
