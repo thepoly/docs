@@ -2,7 +2,7 @@
 title: How to Poly
 description: The staff wiki for The Rensselaer Polytechnic, RPI's student newspaper.
 published: true
-date: 2026-09-22T19:58:13.870Z
+date: 2026-09-22T20:00:16.393Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-22T19:31:04.645Z
@@ -41,7 +41,7 @@ dateCreated: 2026-09-22T19:31:04.645Z
 
 ## About this wiki
 
-This wiki replaces the old [thepoly/docs](https://github.com/thepoly/docs) repository. See something wrong or out of date? Fix it.
+This wiki replaces the old [thepoly/docs](https://github.com/thepoly/docs) repository. See something wrong or out of date? Please fix it!
 
-> Wiki copies of the [Constitution](/governance/constitution) and [Bylaws](/governance/bylaws) are for reference. Changing them for real takes a vote. See [Governance](/governance).
+> Wiki copies of the [Constitution](/governance/constitution) and [Bylaws](/governance/bylaws) are for reference only. Changing them for real requires a vote. See [Governance](/governance).
 {.is-warning}
