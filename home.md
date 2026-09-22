@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2026-09-22T19:31:04.645Z
 ---
 
-![The Polytechnic](/logos/logo-red.png =480x)
+![The Polytechnic](/logos/poly-logo-red.png =480x)
 
 > **New here?** Start with the [Style Guide](/style-guide) and the [Code of Ethics](/governance/code-of-ethics).
 {.is-success}

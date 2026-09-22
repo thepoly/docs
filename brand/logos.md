@@ -1,8 +1,8 @@
 ---
 title: Logos
-description: Official Poly logos. Which one to use where, plus the source files.
+description: Official Poly logos in every version, with SVG and PNG downloads.
 published: true
-date: 2026-09-22T20:00:00.000Z
+date: 2026-09-22T20:10:00.000Z
 tags: brand, logos, design
 editor: markdown
 dateCreated: 2026-09-22T20:00:00.000Z
@@ -10,44 +10,63 @@ dateCreated: 2026-09-22T20:00:00.000Z
 
 Use these files as they are. Don't recolor, stretch, or redraw the logo.
 
-> **Pick by background.** Use the red logo on light backgrounds and the white logos on dark backgrounds or photos.
+> **Pick by background.** Use the red logos on light backgrounds and the white logos on dark backgrounds or photos. Use **SVG** whenever you can; it stays sharp at any size. Use **PNG** where SVG isn't supported.
 {.is-info}
 
-## Red: for light backgrounds
+<p><a href="/logos/poly-logos-all.zip" download><strong>⬇ Download all logos (.zip)</strong></a>, all four versions in SVG and PNG.</p>
 
-![The Polytechnic logo in red](/logos/logo-red.png =520x)
+## Red
 
-[Download PNG (2089 × 445)](/logos/logo-red.png)
+For light backgrounds.
 
-## White: for dark backgrounds
-
-<div style="background:#1a1a1a;padding:32px;border-radius:8px;margin-bottom:12px">
-<img src="/logos/logo-white.png" alt="The Polytechnic logo in white" width="520">
+<div style="background:#ffffff;border:1px solid #e0e0e0;padding:32px;border-radius:8px;margin-bottom:12px">
+<img src="/logos/poly-logo-red.svg" alt="The Polytechnic logo in red" width="520">
 </div>
 
-[Download PNG (2067 × 429)](/logos/logo-white.png)
+<p>Download: <a href="/logos/poly-logo-red.svg" download>SVG</a> · <a href="/logos/poly-logo-red.png" download>PNG (1245 × 212)</a></p>
 
-## White, minimal
+## Red with tagline
 
-<div style="background:#1a1a1a;padding:32px;border-radius:8px;margin-bottom:12px">
-<img src="/logos/logo-minimal-white.png" alt="Minimal Polytechnic logo in white" width="520">
+For light backgrounds. The tagline is black.
+
+<div style="background:#ffffff;border:1px solid #e0e0e0;padding:32px;border-radius:8px;margin-bottom:12px">
+<img src="/logos/poly-logo-red-tagline.svg" alt="The Polytechnic logo in red with the tagline serving the Rensselaer community since 1885" width="560">
 </div>
 
-[Download PNG (2067 × 429)](/logos/logo-minimal-white.png)
+<p>Download: <a href="/logos/poly-logo-red-tagline.svg" download>SVG</a> · <a href="/logos/poly-logo-red-tagline.png" download>PNG (1338 × 213)</a></p>
 
-## White, high-resolution transparent
+## White
+
+For dark backgrounds and photos.
 
 <div style="background:#1a1a1a;padding:32px;border-radius:8px;margin-bottom:12px">
-<img src="/logos/logo-white-transparent.png" alt="The Polytechnic logo in white, high resolution" width="520">
+<img src="/logos/poly-logo-white.svg" alt="The Polytechnic logo in white" width="520">
 </div>
 
-[Download PNG (3062 × 632)](/logos/logo-white-transparent.png)
+<p>Download: <a href="/logos/poly-logo-white.svg" download>SVG</a> · <a href="/logos/poly-logo-white.png" download>PNG (1245 × 212)</a></p>
 
-## Source files
+## White with tagline
 
-These are the Adobe Illustrator proofs. Use them for print, merch, or any size the PNGs can't handle.
+For dark backgrounds and photos.
 
-| File | Format |
+<div style="background:#1a1a1a;padding:32px;border-radius:8px;margin-bottom:12px">
+<img src="/logos/poly-logo-white-tagline.svg" alt="The Polytechnic logo in white with the tagline serving the Rensselaer community since 1885" width="560">
+</div>
+
+<p>Download: <a href="/logos/poly-logo-white-tagline.svg" download>SVG</a> · <a href="/logos/poly-logo-white-tagline.png" download>PNG (1338 × 213)</a></p>
+
+## All files
+
+| Version | Background | SVG | PNG |
+| --- | --- | --- | --- |
+| Red | Light | [poly-logo-red.svg](/logos/poly-logo-red.svg) | [poly-logo-red.png](/logos/poly-logo-red.png) |
+| Red with tagline | Light | [poly-logo-red-tagline.svg](/logos/poly-logo-red-tagline.svg) | [poly-logo-red-tagline.png](/logos/poly-logo-red-tagline.png) |
+| White | Dark | [poly-logo-white.svg](/logos/poly-logo-white.svg) | [poly-logo-white.png](/logos/poly-logo-white.png) |
+| White with tagline | Dark | [poly-logo-white-tagline.svg](/logos/poly-logo-white-tagline.svg) | [poly-logo-white-tagline.png](/logos/poly-logo-white-tagline.png) |
+| **Everything** | | [poly-logos-all.zip](/logos/poly-logos-all.zip) | |
+
+## Brand color
+
+| | |
 | --- | --- |
-| [Minimal logo, proofs](/logos/source/minimal-logo-proofs.ai) | Adobe Illustrator (.ai) |
-| [Subdeck logo, proofs](/logos/source/subdeck-logo-proofs.ai) | Adobe Illustrator (.ai) |
+| **Poly red** | `#D6001C` |
