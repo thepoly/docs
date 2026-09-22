@@ -98,7 +98,6 @@ Kickers are displayed at the top of every article, above the headline. Their pur
 - **MY VIEW**
 - **TOP HAT**
 - **DERBY**
-  - *See [Top Hat & Derby](/editorial/top-hat-derby) for topics we've already covered.*
 - **BEHIND THE URL**
   - *Used for updates and administrative information relating to* The Poly.
 - **ADMINISTRATION**
