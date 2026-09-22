@@ -2,7 +2,7 @@
 title: How to Poly
 description: The staff wiki for The Rensselaer Polytechnic, RPI's student newspaper.
 published: true
-date: 2026-09-22T20:09:19.162Z
+date: 2026-09-22T20:10:14.558Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-22T19:31:04.645Z
