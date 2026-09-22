@@ -19,6 +19,11 @@ dateCreated: 2026-09-22T19:31:04.645Z
 - [Kickers](/style-guide/kickers)
 {.links-list}
 
+## Operations
+
+- [Guiding Document](/operations/guiding-document)
+{.links-list}
+
 ## How we're run
 
 - [Constitution](/governance/constitution)
