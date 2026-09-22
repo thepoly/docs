@@ -23,15 +23,5 @@ dateCreated: 2026-09-22T20:30:00.000Z
 
 ## Goals immediately supporting our mission
 
-<div style="display:flex;flex-wrap:wrap;gap:16px;margin-top:12px">
-<div style="flex:1 1 280px;border:1px solid rgba(127,127,127,.3);border-top:4px solid #D6001C;border-radius:10px;padding:18px 20px">
-<div style="font-size:1.8em;line-height:1">🤝</div>
-<p style="font-weight:700;font-size:1.1em;margin:10px 0 6px">A friendly newsroom</p>
-<p style="margin:0">Maintain a friendly environment for RPI’s student journalists to write, edit, and share ideas.</p>
-</div>
-<div style="flex:1 1 280px;border:1px solid rgba(127,127,127,.3);border-top:4px solid #D6001C;border-radius:10px;padding:18px 20px">
-<div style="font-size:1.8em;line-height:1">🔗</div>
-<p style="font-weight:700;font-size:1.1em;margin:10px 0 6px">Strong relationships</p>
-<p style="margin:0">Maintain relationships with peer newspapers and the key contacts in RPI administration who are key to our mission (e.g., Potts, media, Nikki, Martha).</p>
-</div>
-</div>
+- Maintain a friendly environment for RPI’s student journalists to write, edit, and share ideas.
+- Maintain relationships with peer newspapers and the key contacts in RPI administration who are key to our mission (e.g., Potts, media, Nikki, Martha).
