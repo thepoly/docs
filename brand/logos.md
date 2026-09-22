@@ -2,16 +2,13 @@
 title: Logos
 description: Official Poly logos in every version, with SVG and PNG downloads.
 published: true
-date: 2026-09-22T20:10:00.000Z
+date: 2026-09-22T20:14:10.300Z
 tags: brand, logos, design
 editor: markdown
-dateCreated: 2026-09-22T20:00:00.000Z
+dateCreated: 2026-09-22T19:42:34.873Z
 ---
 
-Use these files as they are. Don't recolor, stretch, or redraw the logo.
-
-> **Pick by background.** Use the red logos on light backgrounds and the white logos on dark backgrounds or photos. Use **SVG** whenever you can; it stays sharp at any size. Use **PNG** where SVG isn't supported.
-{.is-info}
+Use these as they are. Don't recolor or stretch the logo.
 
 <p><a href="/logos/poly-logos-all.zip" download><strong>⬇ Download all logos (.zip)</strong></a>, all four versions in SVG and PNG.</p>
 
