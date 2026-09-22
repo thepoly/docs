@@ -2,7 +2,7 @@
 title: How to Poly
 description: The staff wiki for The Rensselaer Polytechnic, RPI's student newspaper.
 published: true
-date: 2026-09-22T20:00:16.393Z
+date: 2026-09-22T20:09:19.162Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-22T19:31:04.645Z
@@ -36,7 +36,7 @@ dateCreated: 2026-09-22T19:31:04.645Z
 | | |
 | --- | --- |
 | **Editor in chief** | [eic@poly.rpi.edu](mailto:eic@poly.rpi.edu) |
-| **Senior editors** | [poly@rpi.edu](mailto:poly@rpi.edu) |
+| **Senior Board** | [poly@rpi.edu](mailto:poly@rpi.edu) |
 | **Website** | [poly.rpi.edu](https://poly.rpi.edu) |
 
 ## About this wiki
